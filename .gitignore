@@ -1,0 +1,5 @@
+# Ignore .env file
+.env
+__pycache__
+Archive
+.chainlit/
