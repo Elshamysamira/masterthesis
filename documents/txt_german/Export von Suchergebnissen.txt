@@ -1,0 +1,159 @@
+18.11.24, 19:30
+Export Your Search Results
+Page 1 of 6
+https://www.sparkasse.at/de/george-help/george/suchen-und-finden/ihre-suchergebnisse/export-von-suchergebnissen
+Export von
+Suchergebnissen
+Zuletzt aktualisiert 23.09.2024
+Wenn Sie Ihre Suchergebnisse exportieren,
+Transaktionsdetails innerhalb eines
+bestimmten Zeitraums herunterladen oder
+bestimmte Transaktionen von einem Download
+ausschließen möchten, verwenden Sie am
+besten die Exportfunktion. Damit haben Sie die
+Möglichkeit, nach bestimmten Transaktionen
+zu suchen, diese zu filtern und die Daten
+herunterzuladen. Ganz wie Sie es brauchen.
+ 
+George macht es Ihnen leicht, Ihre
+Suchergebnisse zu speichern oder
+herunterzuladen. Mit der Exportfunktion
+erhalten Sie eine Datei, die Sie genau an Ihre
+George 
+Suchen & Finden 
+Ihre Sucherergebnisse
+Spracha
+uswahl
+Diesen Artikel teilen
+Diesen Artik…
+Deutsch
+Teilen
+18.11.24, 19:30
+Export Your Search Results
+Page 2 of 6
+https://www.sparkasse.at/de/george-help/george/suchen-und-finden/ihre-suchergebnisse/export-von-suchergebnissen
+Bedürfnisse anpassen können.
+ 
+Sie können entweder alle Ihre Konten, Karten
+und Produkte durchsuchen oder den
+Transaktionsverlauf eines einzelnen Kontos oder
+einer einzelnen Karte durchsuchen. Mehr zu
+diesem Thema finden Sie unter So Suchen und
+Finden Sie mit George.
+ 
+Sobald George Ihnen die Ergebnisse Ihrer Suche
+anzeigt, können Sie diese exportieren.
+ 
+Web Browser
+Klicken Sie zunächst auf die Suchleiste in
+Ihrer George-Übersicht.
+ 
+In der Übersicht Ihrer Suchergebnisse finden
+Sie den Download-Button.
+ 
+18.11.24, 19:30
+Export Your Search Results
+Page 3 of 6
+https://www.sparkasse.at/de/george-help/george/suchen-und-finden/ihre-suchergebnisse/export-von-suchergebnissen
+Sie können den Export auch in Ihrer
+Transaktionshistorie starten.
+ 
+George öffnet eine Vorschau des Exports.
+Dort können Sie Ihren Export individuell
+anpassen. 
+ 
+ 
+Optionen zum Anpassen Ihres Exports
+ 
+ 
+Dateityp: Sie können zwischen
+verschiedenen Dateitypen wählen: CSV,
+Excel, JSON und MS Money. Wählen Sie
+den jeweiligen Dateityp durch Anklicken
+aus.
+Zeitraum: Sie können den Zeitraum
+wählen, der für den Export berücksichtigt
+werden soll. Wenn Sie "Suchergebnis"
+wählen, wird die Zeitspanne so definiert,
+dass alle Suchergebnisse berücksichtigt
+werden. Sie können einen bestimmten
+Monat, ein Quartal oder ein Jahr
+auswählen, indem Sie das entsprechende
+Feld markieren. Mit den Dropdown-Menüs
+neben dem Feld wählen Sie den jeweiligen
+18.11.24, 19:30
+Export Your Search Results
+Page 4 of 6
+https://www.sparkasse.at/de/george-help/george/suchen-und-finden/ihre-suchergebnisse/export-von-suchergebnissen
+ 
+ 
+Monat, das Quartal oder das Jahr aus, das
+Sie in den Export aufnehmen möchten.
+Wenn Sie eine benutzerdefinierte
+Zeitspanne einbeziehen möchten, wählen
+Sie "Zeitspanne". Sie können dann
+entweder ein Datum eingeben oder ein
+Datum aus dem Kalender auswählen. Um
+alle Ergebnisse seit dem letzten Export zu
+berücksichtigen, wählen Sie "letzter
+Export". George fügt automatisch das
+Datum des letzten Exports ein. 
+Felder: Sie können die Felder, die Sie in
+den Export aufnehmen möchten,
+auswählen oder ausschließen. Wählen Sie
+die Felder aus oder entfernen Sie sie,
+indem Sie das entsprechende
+Kontrollkästchen neben dem Namen des
+Feldes aktivieren oder deaktivieren. Sie
+können die Felder in beliebiger
+Reihenfolge neu anordnen. Verschieben
+Sie dazu die Feldnamen per Drag & Drop
+nach oben oder unten. Die neue
+Reihenfolge sehen Sie direkt in der
+Exportvorschau am unteren Rand der
+Seite.
+Optionen: Über die Optionen können Sie
+die Kopfzeile des Exports anpassen,
+indem Sie den Kontonamen, die IBAN oder
+die Zeitspanne ein- oder ausschließen. Sie
+können auch festlegen, ob Sie die
+Summenzeile einbeziehen wollen oder
+nicht und die Sortierreihenfolge
+18.11.24, 19:30
+Export Your Search Results
+Page 5 of 6
+https://www.sparkasse.at/de/george-help/george/suchen-und-finden/ihre-suchergebnisse/export-von-suchergebnissen
+App
+Autorin: Tamara Berger-Feichter
+Ähnliche Themen
+So suchen und finden Sie Transaktionen
+Tipps und Tricks für Ihre Suche
+Kontoauszüge
+Ihre Kontoübersicht
+Ihre Kontohistorie
+Wenn Sie den Export so zusammengestellt
+haben, wie es Ihnen passt, klicken Sie auf
+den Download-Button. George startet dann
+automatisch den Download für Sie.
+nicht, und die Sortierreihenfolge
+auswählen.
+Hat Ihnen dieser Artikel
+geholfen, George besser zu
+verstehen?
+Oh ja. Vielen Dank.
+Leider nein. Bitte nachbessern.
+18.11.24, 19:30
+Export Your Search Results
+Page 6 of 6
+https://www.sparkasse.at/de/george-help/george/suchen-und-finden/ihre-suchergebnisse/export-von-suchergebnissen
+Impres
+sum
+Datens
+chutz
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+George
+Deutsch

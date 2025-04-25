@@ -1,0 +1,94 @@
+18.11.24, 19:14
+Upcoming Orders
+Page 1 of 4
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/all-about-your-orders/upcoming-orders
+Upcoming Orders
+Last Article Update 04.09.2024
+ 
+With George, you can easily create and
+manage your orders. As soon as you created
+and signed an order, George lists it in your
+"Upcoming orders". Please find below a short
+explanation of the order types that could
+appear under the section "Upcoming orders".
+George 
+Transfers & Orders 
+All about your Orders
+Please note
+To get more information about your orders with George
+Web, please navigate to the "All about your orders"
+section via "Your Products" on the top of the overview. 
+To get more information about your orders with George
+App, you can tap on your account an then on "Orders &
+Authorisations".
+Read this
+article in
+Content
+Standing Orders
+Sweep Orders
+Scheduled Orders
+Share this article
+Print this art…
+English
+Share now
+18.11.24, 19:14
+Upcoming Orders
+Page 2 of 4
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/all-about-your-orders/upcoming-orders
+Standing Orders
+Standing orders are recurring orders that
+George executes always with the same receiver,
+amount, and text (if entered). You sign standing
+orders once and George will execute them at
+the selected time interval. George will display
+your standing orders under your upcoming
+orders. And, of course, you can edit them.
+Sweep Orders
+Sweep orders are also recurring orders, but are
+a little different from standing orders. When a
+sweep order is set up, George will always
+deduct the money that is above the defined
+threshold and transfer it to wherever you decide
+- most probably to your savings account. You
+sign sweep orders once and George will execute
+them at the selected time interval. You will see
+your sweep orders in your upcoming orders and
+can, of course, also edit them.
+Scheduled Orders
+18.11.24, 19:14
+Upcoming Orders
+Page 3 of 4
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/all-about-your-orders/upcoming-orders
+ 
+Scheduled orders are those orders that you
+created and that have an execution date which
+lies in the future. These orders are already
+signed and appear in your "Upcoming orders"
+list. If they are not signed yet, George will show
+them under your "Open orders" in the "All about
+your orders" section.
+Author: Samira El-Shamy
+Related Topics
+Open Orders
+Executed Orders
+Failed Orders
+Your Payment Orders
+18.11.24, 19:14
+Upcoming Orders
+Page 4 of 4
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/all-about-your-orders/upcoming-orders
+Impr
+int
+Data &
+Privacy
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+Did this content help you
+understand George better?
+Oh yes! G(e)orgeous.
+No, please improve this Help Center content.
+George
+English

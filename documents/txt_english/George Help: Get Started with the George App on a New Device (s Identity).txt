@@ -1,0 +1,315 @@
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 1 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+Get Started with
+the George App
+on a New Device
+(s Identity)
+Last Article Update 09.10.2024
+Welcome (back) to George! Whether you start
+the George App for the very first time or you
+re-install George on a new phone, here's what
+you need for a smooth new beginning.
+ 
+George 
+Access to George & Signing Methods 
+Get Access to George
+Read this
+article in
+Content
+Before you start
+Step 1 Get your
+activation code for s
+Identity
+Step 2 Activate s
+Identity on your (new)
+device
+Step 3 Login to
+George on your (new)
+device
+Share this article
+Print this art…
+English
+Share now
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 2 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+Please note:
+This article is for everyone who uses s Identity. If
+you've already migrated to George ID or you received a
+George ID activation code when you opened your
+account, please check out the George ID version of this
+article: Get Started with the George app on a New
+Device (George ID.
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 3 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+Content of this article:
+Click on any of these steps (you can also find
+them in the right side menu) to get directly to
+the respective description.
+Before you start
+Before you start the George App for the first
+time on your mobile device, you need:
+Before you start
+Step 1 Get your activation code for s
+Identity
+Step 2 Activate s Identity on your (new)
+device
+Step 3 Login to George on your (new)
+device
+Please note:
+This article describes the activation process of the
+George App on a (new) device in Austria, i.e. if you are
+a customer of Erste Bank und Sparkasse and use the
+George Österreich App.
+If you are using George with an account in another
+country (Czech Republic, Slovakia, Romania, Croatia or
+Hungary) please download your country's app version
+and follow the instructions given there.
+A valid User ID (the Austrians call it
+"Verfügernummer"):
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 4 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+ 
+ 
+If you are a complete newbie, you will get it
+with your account opening confirmation from
+your bank. 
+Existing customers can also find it on the
+back side of your debit card. You may also
+user personal Username if you have set one
+up in your George profile.
+The George Österreich App: Install it on your
+(new) phone from the AppStore, Google Play
+Store or the Huawei App Gallery.
+The s Identity App You need this app in
+addition to George in order to securely login
+to George and to sign actions, e. g. your
+transfers. Install s Identity on your (new)
+phone from the AppStore, Google Play
+Store or the Huawei App Gallery.
+A valid Activation Code for s Identity (more
+on that in the following steps)
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 5 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+Step 1 Get your activation code for s
+Identity
+In addition to George, you currently need the s
+Identity App for your logins and signings with
+the George App.
+s Identity is a highly secure and convenient
+authentification application which fulfills als
+requirements for a so-called "2-factor-
+authentification":
+In order to activate s Identity for your specific
+device, you need a unique and personal one-
+time activation code for s Identity.
+The s Identity activation code either comes as a
+unique QR Code or as an alphanumeric code.
+Here's how you get it.
+ 
+In order to authorise anything with s Identity,
+you need a specific s Identity PIN which can
+be enhanced later by FaceID (iOS) or
+biometric recognition (Android): something
+only you know / something only you can be.
+s Identity needs to be activated for and
+bound to a specific device: something only
+you own. 
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 6 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+New customer or George user
+Existing George user
+Attention: Keep your activation code private
+No matter how you get your personal activation code
+for s Identity, please keep it strictly private and do not
+share it with anyone else. 
+How to get your s Identity activation
+code as a new customer / new George
+user
+There a different ways to receive your
+activation code:
+with the confirmation of your account
+opening, e.g. in the branch
+at any branch of Erste Bank und
+Sparkasse
+at a self-service terminal in a branch:
+please note that the terminal must offer
+functionalities for George (e.g. some
+"ordinary" older ATMs don't)
+via registered mail after you order the
+activation code at the s Service Center
+How to get your s Identity activation
+code as an existing George and s
+Identity user
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 7 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+Identity user
+If you are already using the George App and
+s Identity and want to install both on your
+new phone, there are more and easier ways
+to get your activation code so you can get
+the George App started within a few
+minutes:
+ 
+use George and s Identity on your old
+device:
+Go to your George App Profile, open the
+Login & Signing menu, Your signing
+method (this has to be s Identity) and
+select Add new signing device. 
+After you sign this action with s Identity
+on your old device, George will display
+the activation code for your new device.
+Attention
+Please get your activation code before you throw
+away your old phone, before your remove the SIM
+card or before you uninstall George and s Identity
+on your old phone.
+If you don't have your old phone anymore or if you
+don't have access to the internet, George or s
+Identiy anymore, you have to use a different
+method to get your activation code.
+use the George browser version:
+Go to your George settings and open the
+Login & Signing menu. Under Your
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 8 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+Step 2 Activate s Identity on your
+(new) device
+No matter if you are a new customer or an
+existing George user, once you have your
+activation code, you can open your s Identity
+app and activate it on your (new) device.
+ 
+ 
+Authorisation Method (must be s Identity)
+and Your s Identity devices, you can Add
+a new device.
+After you sign this action with s Identity
+on your old device, George will display
+the activation code for your new device.
+at any branch of Erste Bank und
+Sparkasse
+at a self-service terminal in a branch:
+please note that the terminal must offer
+functionalities for George (e.g. some
+"ordinary" older ATMs don't)
+via registered mail after you order the
+activation code at the s Service Center
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 9 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+ 
+ 
+ 
+ 
+ 
+When asked which authorisation method
+you're currently using, select s Identity
+(existing user) or New to George.
+s Identity then asks you if you have an
+activation code. If you followed the steps
+before, you should be able to select Yes.
+Please enter your User ID
+("Verfügernummer"). If you have created a
+personal username already, you cannot use it
+here.
+Please enter or scan the activation code.
+Define and confirm your personal PIN for s
+Identity. You will need it later for ýour first
+login to s Identity.
+Please do not forget this PIN.
+You are done with the registration of s
+Identity on your new device. Please proceed
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 10 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…ccess-to-george/get-started-with-the-george-app-on-a-new-device
+ 
+ 
+ 
+Congrats. You are done with the s Identity part.
+Step 3 Login to George on your
+(new) device
+Now comes the fun part that you've been
+working for: The first login to your George App
+on your (new) device:
+ 
+to the first login.
+Login to s Identity for the first time, using
+your User ID "Verfügernummer") and your
+freshly created PIN for s Identity.
+Immediately after your first login, s Identity
+will ask you to setup FaceID (iOS) or
+biometric recognition Android) for future
+logins to s Identity as well as to allow push
+notifications to your device. Both is highly
+recommended.
+Open the George Österreich App and select
+Login to George.
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 11 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…access-to-george/get-started-with-the-george-app-on-a-new-device
+ 
+ 
+ 
+Welcome (back) to George!
+Congrats. You can now begin or continue your
+financial journey with George. Enjoy!
+Author: Dag Erik Zimen
+Enter your User ID "Verfügernummer"). If you
+are an existing George user and if you have
+created your own personal username, you
+can also enter that one.
+Complete your first login to George with s
+Identity that you have setup just before. 
+Please note that for security reasons, s
+Identity will not automatically open itself for
+your first George login. Please open the s
+Identity App manually and complete the
+login. 
+Immediately after your first login, George will
+ask you to activate Easy Access (e. g. FaceID
+for iOS or biometric recognition for Android)
+for future logins as well as to activate push
+notifications. Both is highly recommendend.
+You can also do it at a later stage though.
+18.11.24, 19:31
+George Help: Get Started with the George App on a New Device (s Identity)
+Page 12 of 12
+https://www.sparkasse.at/en/george-help/george/access-and-signin…ccess-to-george/get-started-with-the-george-app-on-a-new-device
+Related Topics
+Create a personal user for George Logins
+More information on s Identity
+Impr
+int
+Data &
+Privacy
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+Did this content help you
+understand George better?
+Oh yes! G(e)orgeous.
+No, please improve this Help Center content.
+George
+English

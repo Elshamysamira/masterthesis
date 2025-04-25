@@ -1,0 +1,463 @@
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 1 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+George Pro: Eine
+Einführung
+Zuletzt aktualisiert 30.08.2024
+Mit George Pro haben Sie die Möglichkeit,
+erweiterte Funktionen speziell für kleinere und
+mittlere Unternehmen zu nutzen und die
+Finanzen Ihrer Projekte professionell zu
+verwalten. George Pro ist kostenlos und Sie
+können die eigene George Pro-Ansicht sowohl
+mit der George App als auch über die
+Webbrowser-Version jederzeit aktivieren -
+oder auch zur gewohnten George Ansicht
+zurück wechseln.
+ 
+George 
+George Pro 
+Allgemeines
+Spracha
+uswahl
+Inhalt
+George Pro aktivieren
+Konto-Auswahl für
+George Pro
+George Pro-Übersicht
+Rechnungs-
+Management
+Cashflow-Prognose
+Export von
+Transaktionen und
+Rechnungen
+Labels
+Geschäftskontakte
+Diesen Artikel teilen
+Diesen Artik…
+Deutsch
+Teilen
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 2 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+Finden Sie hier eine Einführung zu George Pro
+und den wichtigsten Funktionen, die Ihnen
+damit zur Verfügung stehen:
+Rechnungs-Management mit
+automatischem Transaktionsabgleich
+Cashflow-Prognose für Ihre Liquidität
+Export für eine reibungslose
+Zusammenarbeit mit Ihrer Steuerberatung
+Labels zur strukturierten Organisation Ihrer
+Transaktionen
+Professionelle Verwaltung Ihrer
+Geschäftskontakte
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 3 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+George Pro aktivieren
+ 
+Sofern George Pro grundsätzlich für Sie
+verfügbar ist, können Sie die Funktionen
+jederzeit aktivieren und damit nutzen. Nach dem
+Login bei George finden Sie in der
+Hauptnavigation einen permanenten und
+prominenten "Ein- und Ausschalter" für George
+Pro, mit dem Sie jederzeit zwischen der
+herkömmlichen George-Ansicht und der neuen
+George Pro-Umgebung wechseln können.
+Ein zusätzlicher Aktivierungsschritt, wie Sie sie
+Bitte beachten Sie: George Pro ist eventuell
+nicht für Sie verfügbar.
+Sie können George Pro nutzen, sofern Sie von Ihrem
+Bankinstitut dafür freigeschaltet wurden. Dies ist an
+bestimmte Vorbedingungen geknüpft, z.B. ein
+kommerziell genutztes Zahlungsverkehrskonto oder die
+Zugehörigkeit zu einer speziellen Kundengruppe.
+Ob George Pro für Sie verfügbar ist, erkennen Sie
+daran, ob die Aktivierungsoption in der
+Hauptnavigation Ihrer George-App (ab der Version
+"23.30" und jünger) bzw. Ihrer Browser-Version
+aufscheint oder nicht.
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 4 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+z.B. von George Plug-ins kennen, ist nicht
+notwendig.
+Die jeweils aktivierte Ansicht gilt auch für
+zukünftige Logins bei George, sie müssen also
+nicht bei jedem neuen Besuch George Pro
+gesondert aktivieren. Sollten Sie zu einem
+beliebigen Zeitpunkt von George Pro wieder zur
+herkömmlichen Ansicht wechseln, bleiben Ihre
+George Pro-spezifischen Aktivitäten und und
+Einstellungen natürlich erhalten, bis Sie George
+Pro erneut aktivieren.
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 5 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+ 
+Nach dem ersten Aktivieren von George Pro
+sehen Sie ein kurzes Einführungs-Tutorial zu
+George Pro. Dieses können Sie, sofern Sie sich
+in der George Pro-Ansicht befinden,
+selbstverständlich jederzeit erneut über das
+Profil Ihrer George App bzw. die George Pro
+Einstellungen der Browser-Version ansehen.
+Konto-Auswahl für George Pro
+ 
+Sie können die Auswahl Ihrer Konten und Karten
+für George Pro jederzeit kontrollieren. George
+bittet Sie nach der ersten Aktivierung von
+George Pro um eine entsprechende Auswahl.
+Darüber hinaus können Sie diese über das Profil
+Ihrer George App bzw. die George Pro
+Einstellungen der Browser-Version vornehmen.
+Die Konten-Auswahl gilt fortan für jede Sitzung
+in der George Pro-Ansicht. Die Auswahl
+bedeutet, dass die entsprechenden Konten und
+Karten auf der George Pro-Übersicht
+angezeigt sowie für die Cashflow-Prognose
+von George Pro berücksichtigt werden.
+Alle weiteren Konten und Karten, z.B. rein privat
+genutze, sehen Sie dann lediglich in der
+herkömmlichen, "normalen" George-Ansicht.
+Somit können Sie George Pro noch gezielter für
+Ihre geschäftlichen Finanzen verwenden,
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 6 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+während Sie Ihre privaten Finanzen ideal in der
+gewohnten George-Umgebung erledigen.
+George Pro-Übersicht
+Sobald und solange Sie George Pro aktiviert
+haben, sehen Sie George in einem neuen, für
+George-Pro spezifischen Design und mit einer
+anderen Hauptnavigation, die Sie zu den George
+Pro-Hauptfunktionen führt.
+ 
+App
+Wenn Sie George Pro mit der George-App
+nutzen, gliedert sich die George Pro-
+Übersicht in 3 Bereiche:
+ 
+In der oberen Navigation finden Sie links
+den Ein-/Ausschalter für George Pro, mit
+dem Sie jederzeit wieder zur "normalen"
+George-Ansicht wechseln können.
+Daneben finden Sie wie gewohnt Ihr
+Profil. Hier können Sie im Kontext von
+George Pro speziell die Konto-Auswahl
+für George Pro vornehmen, sowie das
+Einführungs-Tutorial erneut abrufen.
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 7 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+Browser
+Im Hauptbereich sehen Sie bei George
+Pro jene Konten und Karten, die Sie für
+George Pro ausgewählt haben. Zu den
+Details, der Historie und Funktionen des
+jeweiligen Kontos bzw. der jeweiligen
+Karte kommen Sie wie gewohnt durch
+Anklicken des Kontos oder der Karte. 
+In der unteren Navigation finden Sie, egal
+wo Sie sich gerade innerhalb der George
+Pro-Umgebung befinden, die "Shortcuts"
+zur George Pro-Übersicht, zum
+Rechnungs-Management, der Cashflow-
+Prognose sowie zu "Mehr". Letzteres
+umfasst neben den nicht George Pro-
+spezifischen Menüs zum Store, dem
+Kontaktbereich und dem
+Währungsrechner die George Pro-
+Funktionalitäten Export, Labels sowie
+Geschäftskontakte.
+Wenn Sie George Pro mit der Webbrowser-
+Version nutzen, gliedert sch die George Pro-
+Übersicht wie folgt:
+ 
+In der Kopfnavigation finden Sie, egal wo
+Sie sich gerade innerhalb der George Pro-
+Umgebung befinden, die "Shortcuts" zur
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 8 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+Rechnungs-Management
+Zu den wichtigsten George Pro-Funktionen zählt
+George Pro-Übersicht, zum Rechnungs-
+Management, der Cashflow-Prognose,
+zum Export sowie zu "Mehr". Letzteres
+umfasst im Untermenü die Funktionen
+Labels, Geschäftskontakte sowie den
+(nicht George Pro-spezifischen) Store.
+Schließlich finden Sie noch den Ein-
+/Ausschalter für George Pro sowie die
+Links zum (nichts George Pro-
+spezifischen) Kommunikationszentrum
+und den Einstellungen (inklusive den
+George Pro-Enstellungen mit der Konto-
+Auswahl)
+Im Hauptbereich sehen Sie bei George Pro
+jene Konten und Karten, die Sie für
+George Pro ausgewählt haben. Zu den
+Details, der Historie und Funktionen des
+jeweiligen Kontos bzw. der jeweiligen
+Karte kommen Sie wie gewohnt durch
+Anklicken des Kontos oder der Karte.
+Darüber hinaus finden Sie auf der
+Übersichtsseite jeweils definierte
+Informationsbereiche zu den
+Haupfunktionen Rechnungs-
+Management, Cashflow-Prognose und
+Labels.
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 9 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+das Rechnungs-Management. Nicht nur können
+Sie dort all Ihre Eingangs- und
+Ausgangsrechnungen speichern, George Pro
+gleicht diese vor allem weitestgehend
+automatisch mit Ihren Transaktionen ab. Somit
+erhalten Sie eine Berechnung Ihrer aktuell
+offenen Forderungen und Verbindlichkeiten.
+ 
+Automatischer Rechnungsabgleich
+Die offenen Forderungen ergeben sich aus der
+Summe aller offenen Ausgangsrechnungen, die
+noch nicht oder noch nicht vollständig bezahlt
+wurden. Ebenso zu den offenen Forderungen
+zählen noch nicht erfolgte Erstattungen aus
+den Eingangsrechnungen.
+Die offenen Verbindlichkeiten ergeben sich aus
+der Summe aller noch nicht oder noch nicht
+vollständig bezahlten Eingangsrechnungen.
+Hinzu kommen als Erstattungen markierte
+Ausgangrechnungen, sofern diese noch oder
+noch teilweise offen sind.
+Sobald George Pro durch den automatischen
+Abgleich mit Ihren Konten- und Karten-
+Transaktionen erkennt, dass eine Rechnung
+ganz oder teilweise beglichen wurde (oder
+sobald Sie eine Rechnung selbst als bezahlt
+markieren), zählt George Pro diese nicht mehr
+zu den offenen Forderungen und
+Verbindlichkeiten.
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 10 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+George Pro erkennt eine Rechnung dann
+automatisch als bezahlt, sobald die
+Transaktions-Parameter Betrag, Partner
+Sender:in bzw. Empfänger:in) sowie
+Zahlungsreferenz einer oder mehrerer
+Transaktionen auf Ihren Konten und Karten zur
+Rechnung passen und anzeigen, dass diese
+vollständig bezahlt wurde.
+Barbelege werden dabei grundsätzlich
+automatisch als bezahlt markiert.
+Sobald die Summe aller verknüpften
+Transaktionen den Rechnungsbetrag erreicht
+oder überschreitet, wird die Rechnung
+automatisch als bezahlt markiert.
+Manuelle Verknüpfung von Rechnungen und
+Transaktionen
+Um eine Rechnung manuell mit einer oder
+mehreren Transaktionen zu verknüpfen, wählen
+Sie in den Rechnungsdetails bitte die
+entsprechenden Transaktionen von Ihren
+Konten und/oder Karten aus. Sobald die Summe
+aller verknüpften Transaktionen den
+Rechnungsbetrag erreicht oder überschreitet,
+wird die Rechung auch hier wieder automatisch
+als bezahlt markiert.
+Falls Sie eine Rechnung auch ohne
+entsprechend verknüpfte Transaktionen als
+bezahlt markieren wollen, können Sie dies in
+den Rechnungsdetails tun.
+ 
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 11 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+Import und Kategorisierung von Rechnungen
+Um Rechnungen automatisch mit Transaktionen
+abgleichen zu können, benötigt George Pro
+natürlich zunächst einmal diese Rechnungen.
+Diese können Sie entweder im George Pro Menü
+zu Rechnungen manuell
+importieren/hochladen oder Sie können den
+eigenen George Pro EMail-Service nutzen und
+Rechnungen an Ihre persönliche George Pro E
+Mail-Adresse schicken (lassen), was einem
+Import gleichkommt.
+ 
+Nach dem Import einer Rechnung zeigt George
+diese zunächst als unsortiert an. Bitte
+kategorisieren Sie die Rechnung anschließend
+als Eingangsrechnung oder als
+Ausgangsrechnung. Darüber hinaus bietet
+Ihnen George Pro weitere Optionen zur
+Kategorisierung einer Rechnung, welche
+notwendig sind, damit diese automatisch mit
+Transaktionen abgeglichen werden kann:
+Einstufung als Barbeleg oder Erstattung,
+sofern zutreffend.
+Rechnungsbetrag Bruttobetrag) und
+gegebenenfalls Währung.
+Partnername Sender:in bzw. Empfänger:in),
+auch aus Ihrem Adressbuch auswählbar.
+Zahlungsreferenz. Wenn statt der
+Zahlungsreferenz der Verwendungszweck
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 12 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+ 
+Cashflow-Prognose
+Automatische Prognose
+Im Cashflow-Menü zeigt George Pro Ihnen den
+aktuellen Stand Ihrer "Liquidität heute", also den
+verfügbaren Geldbetrag auf Ihren für George
+Pro aktivierten Konten und Karten. Der
+entscheidende Vorteil für die Organisation Ihrer
+geschäftlichen Finanzen ist jedoch die
+Cashflow-Prognose. In dieser prognostiziert
+George Pro Ihre Liquität für die kommenden 12
+Monate. Er berücksichtigt dabei:
+verwendet wird, kann leider kein
+automatischer Transaktionsabgleich erfolgen.
+Rechnungsdatum und Fälligkeitsdatum.
+Alle bei George Pro kategorisierten
+Rechnungen, basierend auf dem
+Fälligkeitsdatum: Nur offene Rechnungen mit
+zukünftigem Fälligkeitsdatum sind
+automatisch Teile der Prognose. Überfällige
+Rechnungen und Rechnungen mit
+tagesgleichem Fälligkeitsdatum werden nicht
+automatisch berücksichtigt, Sie können diese
+jedoch in die Prognose einfließen lassen,
+indem Sie die Funktion Unberücksichtigte
+Rechnungen nutzen und der Rechnung ein
+neues voraussichtliches Datum geben.
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 13 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+Manuelle Cashflow-Ereignisse
+Selbstverständlich können Sie aber auch
+zukünftige Cashflow-Ereignisse manuell
+erstellen. Dies gilt für Einnahmen wie für
+Ausgaben, einmalig oder regelmäßig. Sie
+können dazu jeweils ein voraussichtliches
+Datum der Transaktion eingeben, auch als
+Intervall.
+Schießlich können Sie über das "Augen-Symbol"
+auch zukünftige Cashflow-Ereignisse aus der
+Prognose entfernen, um so zum Beispiel
+bestimmte Szenarien wie den Ausfall einer
+Kundenzahlung oder ähnliches zu simulieren.
+Warn-Grenzwert
+In den gesonderten Cashflow-
+Einstellungen können Sie neben einer nur für die
+Cashlow-Prognose gültigen Kontoauswahl auch
+einen Liquiditäts-Grenzwert festlegen. Sobald
+Ihre Liquidität tatsächlich oder prognostiziert in
+der Zukunft diesen Grenzwert erreicht, zeigt
+George Pro Ihnen einen deutlichen Warnhinweis.
+Standardmäßig ist bereits ein Warnwert
+eingestellt, nämlich 0. Diesen können Sie aber
+nach Belieben anpassen, auch negative Werte
+Geplante Transaktionen wie Daueraufträge
+oder Terminüberweisungen
+Offene Kreditkarten-Rechnungen
+Kreditraten
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 14 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+sind möglich.
+Export von Transaktionen und
+Rechnungen
+ 
+Insbesondere für die reibungslose
+Zusammenarbeit mit Ihrer Steuerberatung bietet
+sich die Export-Funktionalität von George Pro
+an. Aber nicht nur. Damit können Sie alle
+Transaktionen sowie die dazugehörigen
+Rechnungen ("keine Buchung ohne Beleg") für
+einen individuell einstellbaren Zeitraum
+exportieren.
+George Pro stellt Ihnen anschließende eine .zip-
+Datei zum Download zur Verfügung, die Sie
+anschließend entpacken können. Diese enthält:
+Labels
+ 
+Mit der Label-Funktion können Sie Ihre
+Eine Liste aller Rechnungen und
+Transaktionen im .csv und .xlsx-Format
+Einen gesonderten Ordner für Rechnungen,
+mit Unterordnern für Eingangsrechnungen
+sowie Ausgangsrechnungen.
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 15 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+geschäftlichen Transaktionen indviduell ordnen
+und strukturieren. Sie sind damit flexibler als mit
+den aus dem privaten Bereich bekannten
+Transaktions-Kategorien für den Finanz
+Manager. Sie können Labels nach Bedarf
+erstellen und diesen dann Transaktionen
+zuordnen.
+ 
+Sie können die Funktion entweder über das
+eigene Label-Menü von George Pro nutzen oder
+direkt in der Transaktionshistorie bzw. den
+Transaktionsdetails. Dort können Sie sowohl
+neue Label erstellen als auch Transaktionen mit
+Labeln versehen, einzeln oder gesammelt.
+Geschäftskontakte
+ 
+Mit George Pro können Sie zusätzlich zu den
+aus dem privaten Bereich bekannten
+Adressbuch-Kontakten Geschäftskontakte
+erstellen. Dies ist zum Beispiel nötig, um
+Rechnungen automatisch mit Transaktionen zu
+verknüpfen. Pro Geschäftskontakt können Sie
+auch die dazugehörigen Rechnungen einsehen.
+Geschäftskontakte können Sie über das
+entsprechende Menü erstellen oder aber direkt
+18.11.24, 19:41
+George Pro: eine Einführung
+Page 16 of 16
+https://www.sparkasse.at/de/george-help/george/george-pro/ueberblick/george-pro-eine-einfuehrung
+bei der Erfassung und Kategorisierung von
+Rechnungen.
+Autor: Dag Erik Zimen
+Impres
+sum
+Datens
+chutz
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+Hat Ihnen dieser Artikel
+geholfen, George besser zu
+verstehen?
+Oh ja. Vielen Dank.
+Leider nein. Bitte nachbessern.
+George
+Deutsch

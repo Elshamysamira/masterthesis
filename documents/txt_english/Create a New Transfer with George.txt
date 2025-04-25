@@ -1,0 +1,297 @@
+18.11.24, 19:09
+Create a New Transfer with George
+Page 1 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+Create a New
+Transfer with
+George
+Last Article Update 01.10.2024
+ 
+Welcome to the beating heart of your George
+experience: the transfer.
+Sending money to your neighbour or to the
+other end of the world is one of the most
+complex things in banking. That's why George
+makes it as simple and as fast as it gets. Step
+by step, George will guide you from the
+creation to the signing of your transfer. 
+George 
+Transfers & Orders 
+Transferring with George
+Read this
+article in
+Content
+How to make a SEPA
+transfer
+Share this article
+Print this art…
+English
+Share now
+18.11.24, 19:09
+Create a New Transfer with George
+Page 2 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+One for all: the intelligent transfer
+Good news: The times of many different transfer forms
+for the various types of transfers are over. George is
+giving you one simple and intelligent transfer interface
+that automatically adapts to your entries. Thus, you
+only have to fill in what is necessary. If George
+recognises that you want to execute a transfer which
+requires additional entries, e.g. an international non-
+SEPA transfer or a tax payment, he will adapt
+automatically and guide you through all the steps.
+The Single Euro Payments Area
+SEPA currently consists of 36 countries,
+amongst them all 27 EU member states.
+SEPA's goal is to unify cashless payments in
+Euro amongst those within the area. A SEPA
+transfer works the same way as a domestic
+transfer. The country doesn't need to have
+EUR as a currency to take part in SEPA, as
+long as the transfer is done in EUR.
+Of course, that means that if an international
+transfer even within the SEPA area is done in
+another currency than EUR, it automatically
+becomes a foreign transfer (non-SEPA.
+Also, transfers to countries outside of SEPA
+will always be foreign transfers (non-SEPA.
+As of 2024, the following countries are part
+of SEPA
+Single Euro Payments Area (SEPA
+ Andorra
+ Austria
+18.11.24, 19:09
+Create a New Transfer with George
+Page 3 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+ Belgium
+ Bulgaria
+ Croatia
+ Cyprus
+ Czech Republic
+ Denmark
+ Estonia
+ Finland
+ France (incl. overseas departments)
+ Germany
+ Greece
+ Hungary
+ Iceland
+ Ireland 
+ Italy
+ Latvia
+ Liechtenstein
+ Lithuania
+ Luxemburg
+ Malta
+ Monaco
+ Netherlands
+ Norway
+ Poland
+ Portugal (incl. Azores and Madeira)
+ Romania
+18.11.24, 19:09
+Create a New Transfer with George
+Page 4 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+How to make a SEPA transfer
+App
+ 
+Please note that Greenland and the Faroe
+Islands are not part of the SEPA area. This
+also applies to Kosovo and Montenegro:
+though they do have the EURO as their
+countries' currency, they are not part of
+the SEPA area.
+ San Marino
+ Slovakia
+ Slovenia
+ Spain (incl. Canary Island, Ceuta and
+Melilla)
+ Sweden
+ Switzerland
+ Vatican
+ United Kingdom (incl. Gibraltar,
+Guernsey, Jersey, Isle of Man)
+1. Either from your overview or from within
+one of your accounts: tap on "New
+Transfer". 
+ 
+2. On the "New Transfer" screen you can
+decide how you want to set up your transfer:
+18.11.24, 19:09
+Create a New Transfer with George
+Page 5 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+dec de
+o
+you
+a t to set up you t a s e :
+3. After tapping on "manual transfer", you
+can either select a contact from your
+address book or tap on the "New recipient"
+button at the bottom of your screen.
+Option A Selecting one of your contacts
+4. If you select one of your contacts, you
+just have to enter the amount on the next
+screen and then tap "Next". On the overview
+screen, you will see the summary of your
+transaction and can still change 
+ 
+ 
+Option B Entering a new recipient
+5. If you did not select a contact but want
+to enter a new recipient, please tap on "New
+create a manual transfer by entering the
+transfer details
+through Scan & Pay where you can scan
+either an IBAN, a payment slip, or a QR
+code
+through templates that you've created
+the execution date
+whether your transfer should be executed
+as an Instant Payment (SEPA
+The payment reference OR the text
+and the sender reference.
+18.11.24, 19:09
+Create a New Transfer with George
+Page 6 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+Web Browser
+recipient".
+6. Please enter the IBAN or account number
+of the recipient of your transfer.
+7. After entering the IBAN, please enter the
+recipient's name.
+8. In the next step, you can enter the amount
+you want to transfer. 
+9. After tapping on "Next", you will see an
+overview of your transfer and can still
+change 
+10. In the last step, please sign your transfer.
+the execution date
+whether your transfer should be executed
+as an Instant Payment (SEPA
+The payment reference OR the text
+and the sender reference.
+1. To initiate a new transfer, click on the
+"New Transfer" button either from
+your overview (on the bottom of the
+respective account tile) or
+from within your respective account (on the
+18.11.24, 19:09
+Create a New Transfer with George
+Page 7 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+top right). 
+ 
+2. Everything starts with a name Enter the
+recipient's name of your transfer or select
+one from your address book contacts.
+George also supports you with the
+intelligent autocomplete function He
+remembers all existing contacts from
+previous transfers and offers them as a
+recipient as you type. The name can contain
+up to 70 characters (09 AZ a-z öäüÖÄÜß
+().,/?;"={}:_%*#§|\$). 
+ 
+3. Enter the IBAN If you have selected one
+of your address book contacts, a transfer
+template, or an autocomplete suggestion,
+George automatically prefills the recipient's
+IBAN. Otherwise, please enter the IBAN.
+George will support you with a live validation
+of the IBAN format:
+If George recognises a valid Austrian IBAN
+you proceed with the next steps of the
+domestic transfer.
+If you entered the IBAN of one of your
+accounts, George will initiate an own
+transfer.
+18.11.24, 19:09
+Create a New Transfer with George
+Page 8 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+4. Amount: As soon as you enter the transfer
+amount, George already calculates and
+shows your future account balance after the
+transfer's execution.
+You can also select the currency in which
+you want to transfer the money. If you select
+a currency other than EUR, George will
+automatically proceed with an international
+transfer (non-SEPA.
+ 
+After you entered the IBAN and the name of
+the recipient along with
+the transfer amount, you can already sign
+your transfer. However, if you want to add
+additional information, you can do so in the
+next steps.
+If it's an IBAN from another SEPA country,
+George will proceed with the international
+transfer (SEPA.
+If the recipient's IBAN is from a country
+outside of SEPA, George will automatically
+adapt the form to an international
+transfer (non-SEPA.
+If the IBAN belongs to an Austrian tax
+authority, you will find yourself in the
+specifically structured tax payment form.
+18.11.24, 19:09
+Create a New Transfer with George
+Page 9 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+Optional fields
+Ready to sign
+Before you actually sign your transfer with
+your valid signing method, George will show
+you a summary.
+ 
+Text: Everything you want to
+communicate to the recipient in up to 4
+text lines with 35 characters each 09 A
+Z a-z öäüÖÄÜß ()&.,/?;"=
+{}:_%*#§|\$^[]@'€!
+Payment reference: Very often, the
+recipient is asking you to use a specific
+payment reference, e.g. it is written in the
+invoice or payment slip. You have 35
+characters for this field (09 AZ a-z /?
+().,'+)
+Send on: You can enter or select any
+execution date within the next 90 days. If
+you do not select a date for this transfer,
+George will execute it "ASAP", i.e. at the
+earliest date possible which usually is the
+same day.
+18.11.24, 19:09
+Create a New Transfer with George
+Page 10 of 10
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/create-a-new-transfer-with-george
+Author: Samira El-Shamy
+Related Topics
+Get Started with the George App on a New Device
+George ID
+Send to yourself: Own Transfers
+Special Transfers: International
+Special Transfers: Tax Payments
+Transferring with Templates
+Scan & Pay
+Impr
+int
+Data &
+Privacy
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+Did this content help you
+understand George better?
+Oh yes! G(e)orgeous.
+No, please improve this Help Center content.
+George
+English

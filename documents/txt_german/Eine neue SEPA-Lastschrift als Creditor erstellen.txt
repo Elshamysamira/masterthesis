@@ -1,0 +1,409 @@
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 1 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+Eine neue SEPA
+Lastschrift als
+Creditor erstellen
+Zuletzt aktualisiert 27.02.2024
+Mit George ist es nicht nur einfach,
+Überweisungen jeglicher Art zu erstellen,
+sondern auch Geld von jemand anderem
+einzuziehen - sogenannte SEPALastschriften.
+Im folgenden Artikel erfahren Sie alles, was Sie
+über SEPALastschriften wissen müssen und
+wie Sie diese mit ein wenig Hilfe von George
+erstellen können.
+George 
+Überweisungen & Aufträge 
+SEPA Lastschriften
+Bitte beachten Sie
+Wie der Name schon sagt, sind SEPALastschriften nur
+innerhalb des SEPARaums möglich.
+ 
+Bevor Sie eine SEPALastschrift erstellen, vergewissern
+Sie sich bitte, dass Sie über die entsprechenden
+Kontorechte verfügen, um dies zu tun. Nicht alle Konten
+können automatisch eine SEPALastschrift erstellen. 
+ 
+Bitte vergewissern Sie sich auch, dass Sie von der
+Zahlungspflichtigen ein unterschriebenes SEPA
+Lastschriftmandat erhalten haben - dies ist zwingend
+erforderlich.
+Spracha
+uswahl
+Diesen Artikel teilen
+Diesen Artik…
+Deutsch
+Teilen
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 2 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+Auch wenn es verlockend klingt, George zu
+bitten, für Sie Geld von anderen einzuziehen,
+kann er das nur unter bestimmten Bedingungen
+tun. Es gibt einige Gründe, warum jemand eine
+SEPALastschrift einrichten möchte. Zum
+Beispiel, wenn Sie Eigentümer:in einer Immobilie
+sind und die Miete von Ihren Mieter:innen
+einziehen möchten. Da Ihr Konto nicht
+automatisch für SEPALastschriften
+freigeschaltet ist, sprechen Sie bitte mit Ihrer
+persönlichen Betreuer:in, wenn Sie eine SEPA
+Lastschrift einrichten wollen und welche
+Voraussetzungen Sie erfüllen müssen.
+ 
+Sie können das leere SEPALastschriftformular
+als Vorlage hier herunterladen.
+ 
+ 
+Wie Sie eine SEPALastschrift erstellen:
+App
+1. Tippen Sie auf jenes Konto, von dem aus
+Sie eine SEPALastschrift anlegen möchten.
+ 
+2. Gehen Sie nun zu "Funktionen" weiter
+oben auf dem Bildschirm und tippen Sie auf
+"Neue SEPALastschrift".
+ 
+ 
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 3 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+3. Geben Sie den Namen der Schuldner:in
+sowie den Betrag ein. Bitte stellen Sie sicher,
+dass Sie ein gültiges und unterzeichnetes
+SEPALastschriftmandat von der
+Schuldner:in haben.
+4. Geben Sie im nächsten Schritt die
+Mandats-ID ein. Die Mandats-ID ist eine
+eindeutige Identifikationsnummer für Ihren
+Lastschrifteinzug. Sie wird von Ihnen im
+Voraus festgelegt und der Schuldner:in auf
+dem Vertrag mitgeteilt, so dass diese den
+Grund für den Lastschrifteinzug leicht
+erkennen kann. Es handelt sich um eine
+Identifikationsnummer, die jedes Mal gleich
+bleibt, wenn Sie die Lastschrift durchführen -
+zumindest, wenn sie auf demselben Vertrag
+zwischen Ihnen und der Schuldner:in basiert,
+wenn Sie die Lastschrift einleiten. Sie können
+auch mehrere Mandats-IDs pro Schuldner:in
+verwenden, beispielsweise wenn Sie
+mehrere Verträge haben. Große
+Energieversorger haben z. B. oft zwei
+Mandate für einen Kunden, der zwei
+Produkte bei ihnen bezieht, z. B. eines für
+Gas und eines für Strom.
+Die Mandats-ID darf nur maximal 35 Zeichen
+lang sein und kann Ziffern (09, Buchstaben
+AZ, folgende Symbole enthalten: /  ?    .
+, ' und Leerzeichen.
+5. Die Art der Lastschrift bestimmt, ob es
+sich um eine Basislastschrift handelt oder
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 4 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+sich um eine Basislastschrift handelt, oder
+um eine Firmenlastschrift. 
+Die SEPABasislastschrift erlaubt
+Lastschriften von Privat- und
+Firmenkunden, hat aber eine
+Rückrechnungsfrist. Sprich: Ihre
+Schuldner:in kann innerhalb von 56
+Tagen ohne Angabe von Gründen,
+darüber hinaus bis zu 13 Monate mit
+Begründung (etwa kein gültiges Mandat
+und daher keine autorisierte Lastschrift)
+bei ihrer Bank eine Rückrechnung des
+Betrages verlangen. Dies schreibt das
+Zahlungsdienstgesetz vor.
+Firmenlastschriften können
+hingegen nur von
+Firmenkonten eingezogen werden, das
+Mandat muss auch vorab beiden
+Bankseiten (Gläubiger und Schuldner)
+bekannt gegeben werden, damit es
+freigegeben wird. B2BSEPA
+Lastschriften haben jedoch keine
+Rückbuchungsmöglichkeit.
+ 
+6. Das Datum der Unterschrift ist jenes
+Datum, an dem die Schuldner:in das SEPA
+Lastschriftmandat unterzeichnet hat,
+höchstwahrscheinlich im Zuge der
+Unterzeichnung des entsprechenden
+Vertrags. Ich werde das Datum der
+Unterschrift für jede einzelne
+wiederkehrende Lastschrift mit der gleichen
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 5 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+Mandats-ID angeben. Ein Beispielformular
+können Sie neben dem Feld "Datum der
+Unterschrift" herunterladen. 
+7. Die Transaktionsart gibt an, um welche
+Art von Lastschrift es sich handelt:
+um eine wiederkehrende
+Lastschrift Standardeinstellung), d. h. es
+handelt sich um eine Abbuchung, die Sie
+regelmäßig durchführen werden (z. B.
+Mitgliedsbeitrag für ein Fitnessstudio)
+um eine erstmalige Lastschrift für die
+allererste Abbuchung einer kommenden
+Serie. Sie können diese Option wählen,
+wenn Sie planen, in naher Zukunft
+mehrere Lastschriften mit demselben
+Mandat auszuführen, damit ich das
+Mandat für Sie speichern kann. Alle
+erstmaligen Lastschriften werden jedoch
+nach ihrer Durchführung automatisch in
+eine wiederkehrende Lastschrift
+umgewandelt. Sie können also auch bei
+der ersten Abbuchung gleich meine
+Standardeinstellung, eine wiederkehrende
+Abbuchung, wählen.
+ 
+um eine letztmalige Lastschrift, was ich
+als Beendigung des Lastschrifteinzugs für
+dieses Mandat anerkennen werde. Nach
+dieser letzten Durchführung werde ich die
+Mandats-ID für einen anderen
+Kunden/Vertrag freigeben.
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 6 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+8. Wenn Sie möchten, können Sie nun
+die Creditor ID ändern. Sie können den Teil
+"Geschäftsbereichskennung" der Creditor-ID
+ändern. Wenn Sie jedoch nicht wissen, was
+Sie hier eintragen sollen, behalten Sie das
+vorausgefüllte ZZZ bei.
+9. Im nächsten Schritt können Sie
+einen Verwendungszweck oder
+eine Zahlungsreferenz  sowie
+eine Senderreferenz eingeben. Außerdem
+können Sie
+das Durchführungsdatum wählen. Wenn Sie
+kein spezifisches Datum angeben, führe ich
+Ihre Lastschrift so früh wie möglich durch.  
+10. Auch diese Art von Auftrag können Sie
+als Vorlage speichern, indem Sie
+die "Vorlage"Checkbox anklicken.
+11. Wenn Sie Ihre SEPALastschrift fertig
+angelegt haben, können Sie diese speichern
+oder um eine einmalige Lastschrift, wenn
+Sie diese nur ein einziges Mal durchführen
+möchten (z. B. bei einem Online-
+Einkaufsportal, bei dem die Nutzer
+unregelmäßig einkaufen). Nach dieser
+einmaligen Durchführung werde ich die
+Mandats-ID für einen anderen
+Kunden/Vertrag freigeben.
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 7 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+Web Browser
+angelegt haben, können Sie diese speichern
+& eine neue erstellen, oder diese
+direkt freigeben.  
+Sobald Sie Ihren Auftrag freigegeben haben,
+finden Sie diesen unter Aufträge &
+Vormerkungen.
+ 
+Tippen Sie dazu auf jenes Konto, von dem
+aus Sie die Lastschrift angelegt haben, und
+tippen Sie dann auf "Aufträge &
+Vormerkungen" im oberen Bereich des
+Bildschirms.
+1. Klicken Sie in Ihrer Übersicht auf jenes
+Konto, von dem aus Sie eine SEPA
+Lastschrift erstellen möchten.
+ 
+2. Im Menü auf der linken Seite finden Sie
+den Punkt "Neue SEPALastschrift".
+3. Geben Sie den Namen
+der Schuldner:in ein. Bitte stellen Sie sicher,
+dass Sie ein unterzeichnetes und gültiges
+SEPALatschriftmandat der Schuldner:in
+haben.
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 8 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+4. Geben Sie im nächsten Schritt
+die Mandats-ID ein. Die Mandats-ID ist eine
+eindeutige Identifikationsnummer für Ihren
+Lastschrifteinzug. Sie wird von Ihnen im
+Voraus festgelegt und der Schuldner:in auf
+dem Vertrag mitgeteilt, so dass diese den
+Grund für den Lastschrifteinzug leicht
+erkennen kann. Es handelt sich um eine
+Identifikationsnummer, die jedes Mal gleich
+bleibt, wenn Sie die Lastschrift durchführen -
+zumindest, wenn sie auf demselben Vertrag
+zwischen Ihnen und der Schuldner:in basiert,
+wenn Sie die Lastschrift einleiten. Sie können
+auch mehrere Mandats-IDs pro Schuldner:in
+verwenden, beispielsweise wenn Sie
+mehrere Verträge haben. Große
+Energieversorger haben z. B. oft zwei
+Mandate für einen Kunden, der zwei
+Produkte bei ihnen bezieht, z. B. eines für
+Gas und eines für Strom.
+Die Mandats-ID darf nur maximal 35 Zeichen
+lang sein und kann Ziffern (09, Buchstaben
+AZ, folgende Symbole enthalten: /  ?    .
+, ' und Leerzeichen.
+5. Die Art der Lastschrift bestimmt, ob es
+sich um eine Basislastschrift handelt, oder
+um eine Firmenlastschrift. 
+Die SEPABasislastschrift erlaubt
+Lastschriften von Privat- und
+Firmenkunden, hat aber eine
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 9 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+Rückrechnungsfrist. Sprich: Ihre
+Schuldner:in kann innerhalb von 56
+Tagen ohne Angabe von Gründen,
+darüber hinaus bis zu 13 Monate mit
+Begründung (etwa kein gültiges Mandat
+und daher keine authorisierte
+Lastschrift) bei ihrer Bank eine
+Rückrechnung des Betrages verlangen.
+Dies schreibt das
+Zahlungsdienstegesetz vor.
+Firmenlastschriften können
+hingegen nur von
+Firmenkonten eingezogen werden, das
+Mandat muss auch vorab beiden
+Bankseiten (Gläubiger und Schuldner)
+bekannt gegeben werden, damit es
+freigegeben wird. B2BSEPA
+Lastschriften haben jedoch keine
+Rückbuchungsmöglichkeit.
+ 
+6. Das Datum der Unterschrift ist jenes
+Datum, an dem die Schuldner:in das SEPA
+Lastschriftmandat unterzeichnet hat,
+höchstwahrscheinlich im Zuge der
+Unterzeichnung des entsprechenden
+Vertrags. Ich werde das Datum der
+Unterschrift für jede einzelne
+wiederkehrende Lastschrift mit der gleichen
+Mandats-ID angeben. Ein Beispielformular
+können Sie neben dem Feld "Datum der
+Unterschrift" herunterladen. 
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 10 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+7. Die Transaktionsart gibt an, um welche
+Art von Lastschrift es sich handelt:
+um eine wiederkehrende
+Lastschrift Standardeinstellung), d. h. es
+handelt sich um eine Abbuchung, die Sie
+regelmäßig durchführen werden (z. B.
+Mitgliedsbeitrag für ein Fitnessstudio)
+um eine erstmalige Lastschrift für die
+allererste Abbuchung einer kommenden
+Serie. Sie können diese Option wählen,
+wenn Sie planen, in naher Zukunft
+mehrere Lastschriften mit demselben
+Mandat auszuführen, damit ich das
+Mandat für Sie speichern kann. Alle
+erstmaligen Lastschriften werden jedoch
+nach ihrer Durchführung automatisch in
+eine wiederkehrende Lastschrift
+umgewandelt. Sie können also auch bei
+der ersten Abbuchung gleich meine
+Standardeinstellung, eine wiederkehrende
+Abbuchung, wählen.
+ 
+um eine letztmalige Lastschrift was ich
+als Beendigung des Lastschrifteinzugs für
+dieses Mandat anerkennen werde. Nach
+dieser letzten Durchführung werde ich die
+Mandats-ID für einen anderen
+Kunden/Vertrag freigeben.
+oder um eine einmalige Lastschrift wenn
+Sie diese nur ein einziges Mal durchführen
+möchten (z B bei einem Online-
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 11 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+8. Wenn Sie möchten, können Sie nun
+die Creditor ID ändern. Sie können den Teil
+"Geschäftsbereichskennung" der Creditor-ID
+ändern. Wenn Sie jedoch nicht wissen, was
+Sie hier eintragen sollen, behalten Sie das
+vorausgefüllte ZZZ bei.
+9. Im nächsten Schritt können Sie einen
+Verwendungszweck oder eine
+Zahlungsreferenz sowie eine
+Senderreferenz eingeben. Außerdem
+können Sie das Durchführungsdatum
+wählen. Wenn Sie kein spezifisches Datum
+angeben, führe ich Ihre Lastschrift so früh
+wie möglich durch.  
+10. Auch diese Art von Auftrag können Sie
+als Vorlage speichern, indem Sie
+die "Vorlage"Checkbox anklicken.
+11. Wenn Sie Ihre SEPALastschrift fertig
+angelegt haben, können Sie diese speichern
+& eine neue erstellen, oder diese
+direkt freigeben.  
+möchten (z. B. bei einem Online
+Einkaufsportal, bei dem die Nutzer
+unregelmäßig einkaufen). Nach dieser
+einmaligen Durchführung werde ich die
+Mandats-ID für einen anderen
+Kunden/Vertrag freigeben.
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 12 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+Autorin: Samira El-Shamy
+Ähnliche Themen
+Ihre SEPALastschriften als Schuldner:in verwalten
+Neue SEPAÜberweisung
+Durchgeführte Aufträge
+Ihre Zahlungsaufträge
+Sobald Sie Ihren Auftrag freigegeben haben,
+finden Sie diesen in Ihrer Auftragsliste.
+ 
+Sie finden diese, indem Sie auf "Ihre
+Produkte" oben in der Übersicht klicken, und
+dann am Ende des Dropdowns auf "Alles
+über Ihre Aufträge". Ihre SEPALastschrift
+führt George unter dem Punkt
+"Durchgeführte Aufträge" auf.
+Hat Ihnen dieser Artikel
+geholfen, George besser zu
+verstehen?
+Oh ja. Vielen Dank.
+Leider nein. Bitte nachbessern.
+18.11.24, 19:12
+Eine neue SEPA-Lastschrift als Creditor erstellen
+Page 13 of 13
+https://www.sparkasse.at/de/george-help/george/ueberweisungen-und-auftraege/sepa-lastschriften/neue-sepa-lastschrift-als-creditor
+Impres
+sum
+Datens
+chutz
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+George
+Deutsch

@@ -1,0 +1,159 @@
+18.11.24, 19:09
+Special Transfers: Tax Payments
+Page 1 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--tax-payments
+Special Transfers:
+Tax Payments
+Last Article Update 27.07.2023
+From time to time, you must pay your taxes.
+With George, there is a simple way to do so in
+the web application and the app: you can easily
+create a new tax authority payment.
+App
+George 
+Transfers & Orders 
+Transferring with George
+1. Create a new transfer.
+2. You can either select a template that you
+already saved or create a manual transfer. 
+3. If you create a manual transfer, start
+typing in "Finanz". George will then give you
+a list of tax authorities that you can select. If
+the tax authority is not to be found on the
+list, try to type in their short code (e.g.
+"FA15") instead. If there is still no
+suggestion, make sure to have an up-to-
+date IBAN and short code by cross-checking
+it with the official list on their Website.
+Otherwise, select the suggestion and
+George will prefill the recipient name and
+IBAN for you.
+Read this
+article in
+Share this article
+Print this art…
+English
+Share now
+18.11.24, 19:09
+Special Transfers: Tax Payments
+Page 2 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--tax-payments
+4. On the next screen, you can enter your
+tax number. In Austria, this number has 9
+digits. 
+5. You can then decide whether you want
+to add tax positions to your transfer or if you
+want to execute a "Payment of Balance"
+where you can transfer money without
+defining tax positions. 
+6 B
+t
+i
+"T
+P
+iti
+"
+18.11.24, 19:09
+Special Transfers: Tax Payments
+Page 3 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--tax-payments
+6. By tapping on "Tax Positions", you can
+add tax positions to your transfer. You can
+add positions such as "turnover tax", "wage
+tax" and other types of taxes. 
+7. Select the tax period & the year and type
+in the amount you would want to add to this
+particular tax position. 
+8. By tapping on "To your credit", the
+amount you are going to transfer will stay in
+your account but it will be declared on the
+transfer. 
+9. Tap on "Done" and add it to your transfer.
+You can add a total of 6 tax positions to
+your tax transfer. When you're finished, tap
+on "Done".
+10. You will now see a summary of your tax
+transfer. You can now also select a transfer
+date. If you don't select any transfer date,
+G
+ill
+h
+f
+18.11.24, 19:09
+Special Transfers: Tax Payments
+Page 4 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--tax-payments
+Web Browser
+George will execute the transfer as soon as
+possible. 
+ 
+11. In the last step, sign your order.
+1. Create a new transfer.
+2. Start typing in "Finanz". George should
+then give you a list of all tax authorities that
+you can select. 
+3. If the tax authority is not to be found on
+the list, try to type in their short code (e.g.
+"FA15") instead. If there is still no suggestion,
+make sure to have an up-to-date IBAN and
+short code by cross-checking it with the
+official list on their Website. Otherwise,
+select the suggestion and George will prefill
+the recipient name and IBAN for you. 
+4. Enter the amount you want to transfer.
+The transfer form then changes from a
+SEPA transfer form to a tax transfer form.
+ 
+5. Enter your tax number. In Austria, this
+number has 9 digits. 
+18.11.24, 19:09
+Special Transfers: Tax Payments
+Page 5 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--tax-payments
+Author: Samira El-Shamy
+ 
+6. By clicking on "Add position", you can add
+tax positions to your transfer. You can add
+positions such as "turnover tax", "wage tax"
+and other types of taxes. 
+ 
+7. Select the tax period & the year and type
+in the amount you want to add to this
+particular tax position. 
+ 
+8. By clicking on "To your credit", the
+amount you are going to transfer will stay in
+your account but it will be declared on the
+transfer. 
+9. Click on "add" and add it to your transfer. 
+10. You can then select a transfer date. If
+you don't select any transfer date, George
+will execute the transfer as soon as
+possible. 
+11. Of course, you can save this transfer as
+a template and reuse it later again.
+12. In the last step, sign your order.
+18.11.24, 19:09
+Special Transfers: Tax Payments
+Page 6 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--tax-payments
+Related Topics
+Create a New Transfer
+Special Transfers: International
+Organise Your Transfer Templates
+Transfer with Templates
+Impr
+int
+Data &
+Privacy
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+Did this content help you
+understand George better?
+Oh yes! G(e)orgeous.
+No, please improve this Help Center content.
+George
+English

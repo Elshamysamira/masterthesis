@@ -1,0 +1,329 @@
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 1 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+So starten Sie die
+George App auf
+einem neuen
+Gerät (s Identity)
+Zuletzt aktualisiert 06.11.2024
+Willkommen (zurück) bei George. Dieser Artikel
+hilft Ihnen dabei, George auf einem neuen
+Gerät zu nutzen. Für erfahrene George-
+Benutzer:innen und Newbies gleichermaßen –
+hier ist alles, was Sie für einen reibungslosen
+Neuanfang brauchen.
+ 
+George 
+Login & Freigaben 
+Zugang zu George
+Spracha
+uswahl
+Inhalt
+Bevor Sie loslegen
+Schritt 1 Holen Sie
+sich Ihren s Identity
+Aktivierungscode
+Schritt 2 Aktivieren
+Sie s Identity auf
+Ihrem (neuen) Gerät
+Schritt 3 Loggen Sie
+sich auf Ihrem (neuen)
+Gerät bei George ein
+Diesen Artikel teilen
+Diesen Artik…
+Deutsch
+Teilen
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 2 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+In diesem Artikel:
+Bitte beachten Sie:
+Dieser Artikel richtet sich an alle, die s Identity nutzen.
+Wenn Sie bereits auf George ID umgestiegen sind oder
+einen George ID Aktivierungscode erhalten haben,
+lesen Sie bitte den Artikel zu George ID So starten Sie
+die George App auf einem neuen Gerät (George ID
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 3 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+Bevor Sie loslegen
+Bevor Sie die George App zum ersten Mal auf
+Ihrem Mobilgerät nutzen, brauchen Sie:
+Bevor Sie loslegen
+Schritt 1 Holen Sie sich Ihren s Identity
+Aktivierungscode
+Schritt 2 Aktivieren Sie s Identity auf Ihrem
+(neuen) Gerät
+Schritt 3 Loggen Sie sich auf Ihrem (neuen)
+Gerät bei George ein
+Bitte beachten Sie:
+Dieser Artikel beschreibt den Aktivierungsprozess der
+George-App auf einem (neuen) Gerät in Österreich, für
+Kund:innen der Erste Bank und Sparkasse, die auch
+Nutzer:innen der George Österreich App sind.
+Wenn Sie George mit einem Konto in einem anderen
+Land (Tschechien, Slowakei, Rumänien, Kroatien oder
+Ungarn) nutzen, laden Sie bitte die App-Version Ihres
+Landes herunter und folgen Sie den Anweisungen dort.
+Eine gültige Verfügernummer Ihre
+Verfügernummer finden Sie auf der Rückseite
+Ihrer Debitkarte. George zeigt Ihre
+Verfügernummer auch im Profilbereich an,
+sowohl in der mobilen App als auch in der
+Browser-Version. Sie können auch Ihren
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 4 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+ 
+ 
+persönlichen Benutzernamen
+verwenden, wenn Sie bereits einen erstellt
+haben.
+Die George Österreich App: Laden Sie die
+App aus dem App Store, Google Play
+Store oder der Huawei App Gallery herunter
+und installieren Sie sie auf jedem Mobilgerät,
+auf dem Sie George nutzen möchten. Sie
+können die George App auf mehreren
+Geräten gleichzeitig verwenden.
+Die s Identity App Sie brauchen diese
+zusätzliche App zur Anmeldung bei George
+und zur Freigabe von Aktionen wie z.B.
+Transaktionen. Installieren Sie s Identity auf
+Ihrem (neuen) Gerät durch den App
+Store, Google Play Store oder die Huawei
+App Gallery.
+Einen gültigen Aktivierungscode für s
+Identity (mehr dazu in den nächsten
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 5 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+Schritt 1 Holen Sie sich Ihren s
+Identity Aktivierungscode
+Zusätzlich zu George benötigen Sie die s
+Identity App für Ihre Anmeldungen und
+Freigaben in der George App.
+s Identity ist eine sichere und
+benutzerfreundliche Authentifizierungs-
+Anwendung, die alle Anforderungen einer
+sogenannten “Zwei-Faktor-Authentifizierung”
+erfüllt:
+Um s Identity für ein Gerät zu aktivieren,
+brauchen Sie einen einmaligen, persönlichen
+Aktivierungscode für s Identity.
+Der s Identity Aktivierungscode ist entweder ein
+einmaliger QRCode oder ein alphanumerischer
+Code. So erhalten Sie ihn.
+ 
+Schritten)
+Um Autorisierungen mit s Identity
+durchzuführen, brauchen Sie eine s Identity
+PIN, die später mit FaceID (iOS) oder
+biometrischer Erkennung (Android) ergänzt
+werden kann.
+s Identity muss aktiviert und an ein
+bestimmtes Gerät gebunden werden.
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 6 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+New customer or George user
+Existing George user
+Achtung: Ihr Aktivierungscode muss geheim
+bleiben
+Egal, wie Sie Ihren persönlichen Aktivierungscode
+bekommen, bitte behandeln Sie ihn streng vertraulich
+und teilen Sie ihn mit niemandem.
+So erhalten Sie Ihren s Identity
+Aktivierungscode als neue Kund:in
+oder George Nutzer:in
+Sie können Ihren Aktivierungscode auf
+verschiedene Arten erhalten:
+mit der Bestätigung über Ihre
+Kontoeröffnung, z.B. in der Filiale
+in jeder Filiale der Erste Bank und
+Sparkasse
+bei einem Bankomaten in einer Filiale:
+bitte beachten Sie, dass der Bankomat
+Funktionalitäten für George anbieten muss
+(manche ältere Bankomaten tun das nicht)
+eingeschrieben per Post, nachdem Sie
+beim s Service Center einen
+Aktivierungscode bestellt haben
+So erhalten Sie Ihren s Identity
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 7 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+So erhalten Sie Ihren s Identity
+Aktivierungscode als bestehende
+Kund:in oder George Nutzer:in
+Wenn Sie die George App und s Identity
+bereits verwenden und George auf Ihrem
+neuen Gerät verwenden wollen, dann
+können Sie ganz leicht einen
+Aktivierungscode auf Ihrem alten Gerät
+erstellen.
+ 
+Öffnen Sie die George App auf Ihrem alten
+Gerät. Klicken Sie auf das Profil-
+Symbol oben rechts, dann öffnen
+Sie Login & Freigabe. Unter Ihre Freigabe
+Methode (hier muss s Identity ausgewählt
+sein), wählen Sie Neues Gerät
+hinzufügen.
+Nachdem Sie diesen Vorgang mit s
+Identity freigegeben haben, wird George
+den Aktivierungscode für Ihr neues Gerät
+anzeigen.
+Achtung
+Bitte erstellen Sie Ihren Aktivierungscode wie unten
+beschrieben, BEVOR Sie Ihr altes Telefon
+entsorgen, Ihre SIMKarte entfernen oder George
+und s Identity auf Ihrem alten Gerät deinstallieren.
+Sollten Sie Ihr altes Gerät verloren haben oder auf
+dem alten Gerät keinen Zugriff auf George mehr
+haben, dann müssen Sie eine andere Methode
+verwenden, um den Aktivierungscode zu erhalten.
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 8 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+Schritt 2 Aktivieren Sie s Identity auf
+Ihrem (neuen) Gerät
+ 
+verwenden Sie die George Browser-
+Version:
+Gehen Sie zu Ihren Einstellungen und
+öffnen Sie das Menü für Logins und
+Freigaben. Unter Ihre Freigabemethode
+und Ihre s Identity Geräte, können Sie ein
+neues Gerät hinzufügen. Nachdem Sie
+diesen Vorgang auf Ihrem alten Gerät mit
+s Identity freigegeben haben, wird George
+den Aktivierungscode für Ihr neues Gerät
+anzeigen.
+in jeder Filiale der Erste Bank und
+Sparkasse
+bei einem Self-Service Bankomat in einer
+Filiale: bitte beachten Sie, dass der
+Bankomat Funktionalitäten für George
+anbieten muss (manche ältere
+Bankomaten tun das nicht)
+eingeschrieben per Post, nachdem Sie
+beim s Service Center einen
+Aktivierungscode bestellt haben
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 9 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigabe…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+Egal ob Sie eine neue oder bestehende George
+Nutzer:in sind, sobald Sie Ihren
+Aktivierungscode haben, können Sie die s
+Identity App auf Ihrem neuen Gerät öffnen und
+sie dort aktivieren.
+ 
+ 
+ 
+ 
+ 
+Wenn Sie gefragt werden welche
+Freigabemethode Sie momentan verwenden,
+wählen Sie s Identity (bestehende
+Nutzer:innen) oder Neu bei George.
+s Identity fragt Sie dann nach Ihrem
+Aktivierungscode. Wenn sie alle Schritte bis
+hierher richtig ausgeführt haben, sollten Sie
+jetzt Ja wählen können.
+Bitte geben Sie Ihre Verfügernummer ein.
+Wenn Sie bereits einen persönlichen
+Benutzernamen erstellt haben, können Sie
+diesen hier leider nicht verwenden.
+Bitte geben Sie den Aktivierungscode ein
+oder scannen Sie ihn.
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 10 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigab…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+ 
+ 
+ 
+ 
+Jetzt haben Sie den s Identity Teil gemeistert.
+Wählen und bestätigen Sie Ihren
+persönlichen PINCode für s Identity. Sie
+werden Ihn später für Ihre erste Anmeldung
+bei s Identity brauchen. Bitte vergessen Sie
+diesen PINCode nicht.
+Sie haben die Registrierung bei s Identity auf
+Ihrem neuen Gerät erfolgreich durchgeführt.
+Jetzt ist es Zeit für Ihre erste Anmeldung.
+Melden Sie sich zum ersten Mal bei s Identity
+an. Verwenden Sie Ihre Verfügernummer und
+Ihren neu erstellten PINCode für s Identity.
+Sofort nach Ihrer ersten Anmeldung wird s
+Identity Sie fragen, ob Sie Face ID (iOS) oder
+biometrische Erkennung (Android), sowie
+Push-Nachrichten für zukünftige
+Anmeldungen aktivieren wollen. Das ist stark
+zu empfehlen.
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 11 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigab…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+Schritt 3 Loggen Sie sich auf Ihrem
+(neuen) Gerät bei George ein
+Jetzt wird es spannend: Ihre erste Anmeldung in
+der George App auf Ihrem (neuen) Gerät steht
+bevor.
+ 
+ 
+ 
+Öffnen Sie die George Österreich App und
+wählen Sie George Login.
+Geben Sie Ihre Verfügernummer ein. Sie
+können auch
+Ihren Benutzernamen verwenden, wenn Sie
+bereits einen erstellt haben.
+Benutzen Sie s Identity, um sich bei George
+anzumelden
+Bitte beachten Sie, dass s Identity sich bei
+Ihrer ersten Anmeldung aus
+Sicherheitsgründen nicht von selbst öffnen
+wird. Bitten öffnen Sie die s Identity App
+manuell und melden Sie sich an.
+Sofort nach Ihrer ersten Anmeldung wird s
+Identity Sie fragen, ob Sie Face ID (iOS) oder
+18.11.24, 19:31
+So starten Sie die George App auf einem neuen Gerät (s Identity)
+Page 12 of 13
+https://www.sparkasse.at/de/george-help/george/login-und-freigab…g-zu-george/so-starten-sie-die-george-app-auf-einem-neuen-geraet
+ 
+Und nun, willkommen (zurück) bei George!
+Autor: Dag Erik Zimen
+Impres
+sum
+Datens
+chutz
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+biometrische Erkennung (Android),
+sowie Push-Nachrichten für zukünftige
+Anmeldungen aktivieren wollen. Das ist stark
+zu empfehlen. Sie können diese Optionen
+aber auch noch später aktivieren.
+Hat Ihnen dieser Artikel
+geholfen, George besser zu
+verstehen?
+Oh ja. Vielen Dank.
+Leider nein. Bitte nachbessern.
+George
+Deutsch

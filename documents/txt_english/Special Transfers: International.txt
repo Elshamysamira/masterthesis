@@ -1,0 +1,142 @@
+18.11.24, 19:09
+Special Transfers: International
+Page 1 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--international
+Special Transfers:
+International
+Last Article Update 23.09.2024
+ 
+George transfers your money quickly to
+accounts all around the world. By doing so,
+George differentiates between transfers within
+the SEPA area and international transfers (non-
+SEPA.
+While preparing your transfer, there are some
+things you should keep in mind so your money
+arrives at the desired destination, whether it's
+abroad or within the SEPA area but in a
+currency other than EUR.
+ 
+George 
+Transfers & Orders 
+Transferring with George
+Read this
+article in
+Content
+How to make a non-
+SEPA transfer
+Share this article
+Print this art…
+English
+Share now
+18.11.24, 19:09
+Special Transfers: International
+Page 2 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--international
+How to make an international (non-
+SEPA transfer
+Single Euro Payments Area (SEPA
+The Single Euro Payments Area
+SEPA currently consists of 36 countries,
+amongst them all 27 EU member states.
+SEPA's goal is to unify cashless payments in
+Euro amongst those within the area. A SEPA
+transfer works the same way as a domestic
+transfer. The country doesn't need to have
+EUR as a currency to take part in SEPA, as
+long as the transfer is done in EUR.
+Of course, that means that if an international
+transfer even within the SEPA area is done in
+another currency than EUR, it automatically
+becomes a foreign transfer (non-SEPA.
+Also, transfers to countries outside of SEPA
+will always be foreign transfers (non-SEPA.
+As of 2022, the following countries are part
+of SEPA
+ Andorra
+ Austria
+ Belgium
+ Bulgaria
+ Croatia
+ Cyprus
+ Czech Republic
+18.11.24, 19:09
+Special Transfers: International
+Page 3 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--international
+1. From your overview, look for the account from
+which you want to send money internationally
+and click on "New transfer.
+ 
+2. The transfer form now opens. As default,
+George sets up a SEPA transfer. This will change
+as soon as you enter an IBAN or account
+number that is outside the SEPA region. Or if
+you enter a currency other than EUR.
+ 
+3. As when preparing a regular SEPA
+transfer, select the recipient account and, of
+course, the amount.
+18.11.24, 19:09
+Special Transfers: International
+Page 4 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--international
+4. As you can see, George now displays
+additional fields such as address details. Since
+there are expenses for foreign transfers, you
+can decide who will accept them: You, the
+recipient, or you both share them equally. If you
+fully or partially accept them, you can also
+select an account that George should charge for
+Please note
+As soon as you select a partner account with a non-
+SEPA IBAN, enter a non-SEPA account number
+or change the currency from Euro to any other
+currency, George changes the transfer automatically
+into a non-SEPA transfer.
+You don't need a separate form for foreign transfers
+anymore. George will adapt the transfer form
+automatically while you are entering the details.
+18.11.24, 19:09
+Special Transfers: International
+Page 5 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--international
+the expenses.
+5. Now you can also enter either a text or a
+payment reference. This input, however, is
+optional. 
+6. In the next step, you can either save this
+transfer for later, save the transfer and
+immediately prepare a new one, or sign it right
+away.
+Author: Samira El-Shamy
+Related Topics
+Creating a SEPA Transfer
+Transferring with Templates
+Own Transfers
+International transfers come with fees
+Unfortunately, I cannot tell you the absolute amount of
+fees that come with international transfers. This
+depends on the country, the amount, and also the
+respective bank. For this purpose, please read the
+terms and conditions of your bank or ask your personal
+advisor. 
+18.11.24, 19:09
+Special Transfers: International
+Page 6 of 6
+https://www.sparkasse.at/en/george-help/george/transfers-and-orders/transferring-with-george/special-transfers--international
+Impr
+int
+Data &
+Privacy
+Cook
+ies
+© 2023 Erste Group
+Bank AG
+George Login
+Did this content help you
+understand George better?
+Oh yes! G(e)orgeous.
+No, please improve this Help Center content.
+George
+English
