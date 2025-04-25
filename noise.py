@@ -105,27 +105,24 @@ def process_queries(queries, noise_level, output_file):
         file.write("\n".join(noisy_queries))
     return noisy_queries
 
-# Function to process Word documents
+# Function to process TXT documents
 def process_documents(input_folder, output_folder, noise_level):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
     for filename in os.listdir(input_folder):
-        if filename.endswith(".docx"):
-            doc_path = os.path.join(input_folder, filename)
+        if filename.endswith(".txt"):
+            input_path = os.path.join(input_folder, filename)
             output_path = os.path.join(output_folder, filename)
 
-            # Load document
-            doc = Document(doc_path)
-            new_doc = Document()
+            with open(input_path, "r", encoding="utf-8") as file:
+                text = file.read()
 
-            # Process paragraphs
-            for para in doc.paragraphs:
-                noisy_text = apply_noise(para.text, noise_level)
-                new_doc.add_paragraph(noisy_text)
+            noisy_text = apply_noise(text, noise_level)
 
-            # Save modified document
-            new_doc.save(output_path)
+            with open(output_path, "w", encoding="utf-8") as file:
+                file.write(noisy_text)
+
             print(f"Processed {filename} with {noise_level} noise.")
 
 # Define paths (adjust according to your VS Code workspace)
