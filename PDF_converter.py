@@ -8,4 +8,4 @@ def pdf_to_txt(pdf_path, txt_path):
             f.write(text)
         print(f"saved text to {txt_path}")
 
-pdf_to_txt("documents/kontenundkartenordnen.pdf", "documents/kontenundkartenordnen.txt")
+pdf_to_txt("questions_german/questions_german.pdf", "questions_german/questions_german.txt")
