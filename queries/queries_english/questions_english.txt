@@ -1,0 +1,770 @@
+How can you add a custom picture to an account or card in George? 
+What steps are required to delete a personalized picture in George via the web browser? 
+How can you change a picture for an account or card using the George app? 
+What other personalization options besides pictures are available in George? 
+Can you personalize your account and card images directly from the overview screen in George? 
+add image to account George 
+delete custom picture George online 
+change account/card image George app 
+personalization options in George 
+customize images from George overview 
+How can you access your account settings in George via the app and the browser? 
+What information is available in the "Info" or "Product Settings" sections of your giro account? 
+Which permissions can be managed in the George browser version for your account? 
+What happens if you revoke a permission in George? 
+How can you activate and manage notifications related to your account activities? 
+access account settings George app browser 
+view info product settings giro account George 
+manage permissions George browser account 
+revoke permission George account effect 
+activate manage account notifications George 
+How can you create and download an account statement in George using the app? 
+What options are available when creating an account statement in George via the web browser? 
+Why are electronic account statements considered better than paper versions? 
+How does George determine the start date of a new account statement? 
+How can you download specific transactions within a custom timeframe in George? 
+create account statement George app 
+options account statement George web 
+benefits electronic account statement George 
+account statement start date rules George 
+download specific transactions George export 
+How can you activate Apple Pay through the George App? 
+What are the steps to add a new card via the Apple Wallet app? 
+How can you remove a card from the Apple Wallet? 
+What authentication methods are used when paying with Apple Pay? 
+What process should you follow to use a different card for payment in-store? 
+activate Apple Pay George App 
+add card Apple Wallet steps 
+remove card from Apple Wallet 
+Apple Pay authentication methods 
+switch card Apple Pay in-store 
+How can you access the ATM & Branch Finder via the George app? 
+What must be enabled on your phone for the ATM & Branch Finder to work correctly? 
+How do you access the ATM & Branch Finder when using George in a web browser? 
+What can you search for using the ATM & Branch Finder? 
+Besides using the ATM & Branch Finder, how else can you contact your advisor through 
+George? 
+Access ATM Branch Finder George app 
+Enable location services ATM Finder George 
+ATM Branch search George web browser 
+Find branches ATMs George app 
+Contact advisor George app 
+What are authorised card payments in George? 
+How can you view authorised payments in the George App? 
+Where can you find the details of reserved card payments in George Web? 
+What information is shown for each authorised payment in George? 
+What should you do if you want to delete an authorisation? 
+authorised card payments George 
+view reserved payments George App 
+find preauthorisations George Web 
+details shown for authorised payments George 
+delete authorisation Erste Bank Sparkasse 
+How can George identify you automatically when calling the support team? 
+What steps are required to initiate an authorised call via the George app? 
+How do you make an authorised call using the George web browser? 
+When should you book an appointment at a branch instead of calling? 
+What other communication options with your bank are available besides calling? 
+automatic customer identification George app call 
+steps to make authorised call George app 
+call support George browser instructions 
+when to book branch appointment instead of calling 
+other ways to contact bank through George 
+How can you book an appointment with your bank advisor using George? 
+What steps are involved in selecting a topic and appointment type in George? 
+How can you reschedule or cancel an already booked appointment via George? 
+What options are available if none of the suggested topics match your concern? 
+How can you view the details of your upcoming appointments in George? 
+book appointment George advisor 
+select topic appointment George app 
+reschedule cancel George appointment 
+general advice option appointment George 
+view upcoming appointments George 
+How can you change the background in George using the web browser? 
+What steps must you follow to personalise your George overview? 
+Is it possible to use the background change feature in the George app? 
+What other personalisation options are available in George besides changing the background? 
+Where can you find the "Customise" button in the George overview? 
+change background George web browser 
+personalise George overview steps 
+background change available George app 
+other personalisation options George 
+customise button George overview location 
+How can you claim an unauthorised credit card payment in George? 
+What types of transactions can be claimed via George? 
+What information is needed when claiming a credit card payment? 
+How does George assist you during the claim process? 
+Who should you contact for updates about the processing status of your claim? 
+claim credit card payment George app 
+transactions eligible for claim George 
+required information for credit card claim 
+George step-by-step claim process 
+contact advisor for claim status 
+How can you change the colour of an account or card in George via the app? 
+What steps are required to customise the appearance of a product in the George web browser? 
+How many custom colours are available for personalising accounts and cards in George? 
+What additional options besides colour changes can be used to personalise George? 
+How can you quickly access the colour change function from the George overview? 
+change account colour George app 
+customise product appearance George web 
+number of custom colours George 
+personalise George account options 
+quick access change colour George 
+How does George simplify different types of money transfers? 
+What steps are required to make a SEPA transfer in the George app? 
+What happens when a non-SEPA IBAN is entered during a transfer? 
+What optional fields can be filled before signing a transfer in George? 
+How does George assist with recipient selection during a transfer setup? 
+George simplify transfer types 
+SEPA transfer steps George app 
+non-SEPA IBAN entry George consequences 
+optional fields before signing transfer George 
+George recipient selection assistance 
+How can you create a personal username for George browser logins? 
+Where can you find your user number in George? 
+What are the character requirements for a George custom username? 
+Can you change your George username after setting it? 
+Will it be possible to set a custom username directly via the George browser in the future? 
+create personal username George browser 
+find user number George app 
+character rules George username 
+change George custom username 
+custom username George browser future update 
+How can you create new sections for organizing accounts and cards in George? 
+What steps are required to rename a section in George? 
+How can items be added to a section in George? 
+What happens to accounts and cards if a section is deleted? 
+What other personalization options does George offer for the overview page? 
+create sections organize accounts George 
+rename section George overview 
+add items to George section 
+delete section George impact 
+personalize George overview options 
+What prerequisites must be met before creating a SEPA direct debit in George? 
+How can you set up a SEPA direct debit using the George app? 
+What is the purpose of the mandate ID in a SEPA direct debit? 
+What is the difference between SEPA Core and SEPA B2B direct debits? 
+How can you save a SEPA direct debit as a template in George? 
+prerequisites SEPA direct debit George 
+create SEPA direct debit George app steps 
+mandate ID purpose SEPA direct debit 
+SEPA Core vs B2B direct debit differences 
+save SEPA direct debit as template Georg 
+How can you create a summary card in George? 
+What types of accounts and cards can be combined into a summary card? 
+Where do you find the option to create a summary card in the George browser? 
+Can you rename or delete an existing summary card later? 
+What are some practical examples of using summary cards for personal finance tracking? 
+create summary card George 
+combine accounts cards George 
+customise overview create summary card 
+edit rename delete summary cards George 
+examples summary card savings tracking 
+How can you lock your credit card using George? 
+What options are available for changing the credit card limit in George? 
+How can you activate Google Pay or Apple Pay with your credit card? 
+What information can you view when displaying your credit card details in George? 
+How can you personalize your credit card in the George web version? 
+lock credit card George app 
+change credit card limit George 
+activate Google Pay Apple Pay George 
+view credit card details George 
+personalize credit card George browser 
+How can you access your monthly credit card invoices in George? 
+What additional details can you find for each transaction listed on the invoice? 
+How can you download a copy of your monthly credit card invoice? 
+What information is included in each credit card invoice overview? 
+How can you increase your available credit card limit through George? 
+access credit card invoices George 
+transaction details credit card invoice George 
+download monthly credit card invoice George 
+information shown in George credit card invoice 
+increase available credit card amount George 
+How can you activate push notifications for credit card activities in George? 
+What types of notifications can George send regarding your financial activities? 
+How can you customize the notification settings for different cards in George? 
+What information is included in a credit card SMS notification from George? 
+Which credit card types are eligible for George’s SMS notification service? 
+activate push notifications George credit card 
+George financial activity notification types 
+customize card notification settings George 
+SMS notification details George credit card 
+eligible cards SMS notifications George 
+How can you access the currency converter in George? 
+Where do you find the currency converter within your George profile? 
+How do you convert between two currencies using George? 
+How can Android users quickly access the currency converter without opening George? 
+What additional settings or related topics are available near the currency converter? 
+access currency converter George app 
+find currency converter in George profile 
+convert currency with George 
+quick access currency converter Android George 
+related settings George currency converter 
+How can you access the currency converter in George? 
+Where in George can you find the currency converter option? 
+How do you convert an amount from one currency to another using George? 
+How can Android users quickly access the currency converter without opening the George app? 
+What steps are involved to use the currency converter in the George profile area? 
+access currency converter George 
+find currency converter George profile 
+convert currency amount George app 
+quick access currency converter Android 
+use currency converter George steps 
+How can you block and reorder your debit card using George? 
+What steps are required to change the daily limit for cash withdrawals and card payments? 
+How does GeoControl protect your debit card when traveling abroad? 
+How can you link one debit card to multiple accounts in George? 
+What features can you manage directly from the George web version for your debit card? 
+block reorder debit card George app 
+change daily limit cash withdrawals George 
+GeoControl debit card fraud protection 
+link debit card multiple accounts George 
+manage debit card features George web 
+What are debit card authorisations and how do they differ from booked payments? 
+How can you view authorised payments in George via a web browser? 
+What details are shown when selecting an authorised payment in George? 
+Can Erste Bank and Sparkasse delete debit card authorisations? 
+Where can customers get help regarding questions about their authorised payments? 
+debit card authorisations meaning 
+view authorised payments George web browser 
+details shown authorised payment George 
+delete debit card authorisations Erste Bank 
+help with authorised payments George 
+How can you donate to a charity using the George App? 
+What should you do if your desired charity is not listed in George? 
+How can you ensure your donation is tax-deductible when donating via George? 
+Where can you find the record of your completed donation in George? 
+Can you donate using George Web, and if so, how? 
+donate charity George App 
+create SEPA transfer charity not listed George 
+donation tax deduction George full name birthdate 
+donation transaction history George executed orders 
+donate via George Web SEPA transfer instructions 
+How does George display executed orders after they are signed and processed? 
+Which types of transfers are listed as executed orders in George? 
+How can you view executed orders in the George app? 
+What steps must you follow to delete an executed order from your list? 
+How can you access executed orders using the George web browser? 
+view executed orders George app 
+types of executed transfers George 
+delete executed order George 
+access executed orders web browser 
+repeat or print executed orders George 
+How can you export your search results in George? 
+Which file formats are available for exporting transactions in George? 
+How can you define a specific time span for exporting transactions? 
+What options can be customized in the export settings? 
+How can you rearrange the fields included in the export preview? 
+export search results George 
+file formats export transactions George 
+define export time span George 
+customize export options George 
+rearrange export fields George 
+How can you view failed orders in George? 
+What are some common reasons why an order might fail in George? 
+How does George notify you if an order fails? 
+Where can you find more details about a failed order in George? 
+Who can you contact if you need help with a failed order? 
+view failed orders George 
+reasons order failure George 
+George notification for failed order 
+find details failed order George 
+contact advisor failed orders George 
+How can you access the general bank messages in the George app? 
+Where do you find general messages when using George on a web browser? 
+What types of updates are included in the general bank messages? 
+How does George notify you about new general messages? 
+What is the difference between important messages and information messages in George? 
+access general bank messages George app 
+find general messages web browser George 
+updates included general bank messages George 
+George notification new general messages 
+difference important vs information messages George 
+What is the purpose of the Geo Control function for debit cards? 
+How can you deactivate Geo Control when planning to travel outside Europe? 
+For how long can Geo Control be suspended on a debit card? 
+Through which platforms can you manage the Geo Control settings? 
+Which countries are exempt from the Geo Control restrictions? 
+Geo Control function debit card purpose 
+deactivate Geo Control travel outside Europe 
+maximum duration Geo Control suspension 
+manage Geo Control George app web 
+countries exempt Geo Control restrictions 
+What do you need before starting the George App on a new device with s Identity? 
+How can you obtain the activation code for s Identity as a new or existing George user? 
+What steps are involved in activating s Identity on a new device? 
+How do you perform your first login to the George App using s Identity? 
+Why is setting up biometric recognition recommended after activating s Identity? 
+requirements George App new device s Identity 
+obtain activation code s Identity George 
+activate s Identity new device steps 
+first login George App with s Identity 
+biometric setup recommendation George s Identity 
+How do you create an activation code in George on your old device? 
+What steps are necessary to log in to George on a new device? 
+What should you do if you no longer have access to your old George device? 
+How can new users obtain their George activation code for the first login? 
+What options exist for downloading the George Österreich App? 
+create activation code George old device 
+login steps George new device 
+lost access old George device what to do 
+obtain George activation code new user 
+download George Österreich App options 
+How can you activate George Pro in the George app or browser version? 
+What criteria must be met to be eligible for George Pro activation? 
+How does George Pro assist in managing invoices and outstanding payments? 
+What features does the cash flow forecast in George Pro offer for business liquidity 
+management? 
+How can business partners be created and managed within George Pro? 
+activate George Pro app browser 
+eligibility requirements George Pro 
+invoice management George Pro 
+cash flow forecast features George Pro 
+create manage business partners George Pro 
+What are the requirements to use Google Pay with George? 
+How can you activate Google Pay for a credit card in the George app? 
+What steps are involved in confirming your identity for Google Pay activation? 
+How can you manage multiple cards within Google Wallet after activation? 
+How do you make a payment in a store using Google Pay after setup? 
+requirements Google Pay George 
+activate Google Pay George app 
+identity confirmation Google Pay activation 
+manage multiple cards Google Wallet 
+use Google Pay to pay in store 
+How do you access the notifications settings in the George app? 
+For which transaction types can push notifications be activated? 
+What should you check on your phone after activating push notifications in George? 
+Which notifications can you activate when using George through a web browser? 
+What portfolio-related notifications does George offer? 
+George app access notification settings 
+activate push notifications incoming outgoing transactions 
+enable phone system notifications for George 
+web browser notification settings George 
+portfolio price alert notifications George 
+Which languages are available for George in the mobile app? 
+How can you change the language settings in the George web browser? 
+Why might some texts in George not be perfectly translated? 
+What steps are needed to change the language in George on Android? 
+Is it possible to change the language settings in George after the initial setup? 
+George app available languages 
+Change language George web browser 
+Translation limitations George app 
+Steps to change language George Android 
+Update language settings George later 
+How can you change the app icon in the George app? 
+What steps must you follow to select a new colour for the George app icon? 
+Is it currently possible to change the George app icon on Android devices? 
+Where in the George app settings can you find the "App Icon" option? 
+Can you revert to a previous app icon design if you change your mind? 
+change George app icon 
+select new app icon colour George 
+George app icon Android availability 
+location of app icon setting George 
+revert George app icon change 
+How can you lock your credit card directly through the George app? 
+What phone number should you call to lock your credit card if you are abroad? 
+What steps must you follow to lock your credit card via the web browser? 
+What happens after you lock your credit card regarding reissuing a new card? 
+Is there a charge for locking your credit card via George? 
+lock credit card George app 
+lock credit card phone number abroad 
+steps lock credit card web browser George 
+reissue new card after locking 
+cost lock credit card George 
+How can you lock your debit card using the George app or web browser? 
+What steps are required to lock a debit card manually in George? 
+How quickly is a new debit card and PIN code issued after locking a card? 
+What should you do if you cannot access George to lock your debit card? 
+What are alternative reasons for locking or reordering a debit card? 
+lock debit card George app browser 
+steps lock debit card George 
+new card issuance time after locking 
+lock debit card without George access 
+reasons lock reorder debit card 
+How can you open a new current account using the George app? 
+What steps must be followed to configure a new current account in George? 
+How do you complete the contract signing for a new current account in George? 
+What differences exist between opening an account via the George app and the web browser? 
+How soon is a new current account visible in the George overview after opening it? 
+open current account George app 
+configure new account George steps 
+contract signing process new account George 
+differences George app vs browser account opening 
+new account visibility George overview 
+How can you open a new savings account in the George app? 
+What steps are required to customize a savings account before opening it? 
+How do you access the George Store to start the savings account setup in the web version? 
+What optional features can you add when opening a new savings account? 
+What happens after approving the contract for a new savings account? 
+open new savings account George app 
+customize savings account settings George 
+access George Store browser version 
+optional features savings account George 
+approve savings account contract process 
+How can you search for transactions in the George app? 
+What financial products are included when George searches for transactions? 
+How can you extend the transaction history period in George? 
+What steps are needed to start a transaction search in the George web browser? 
+How can filters enhance your transaction search results in George? 
+search transactions George app 
+included financial products George search 
+extend transaction history George 
+start transaction search George web browser 
+use filters for better search George 
+How do you activate dark mode in the George Android app? 
+What steps should you follow to change George's display appearance on an iOS device? 
+What happens if you select "Apply device settings" in the George app? 
+Where in your device settings can you switch between light and dark mode? 
+Who is the author of the article about using George in dark mode? 
+Activate dark mode George Android 
+Change display appearance George iOS 
+Apply device settings dark mode George 
+Device settings switch light dark mode 
+Author George dark mode guide 
+How can you manage your existing SEPA direct debits as a creditor using George? 
+What steps must be taken if a SEPA direct debit has been created but not yet signed? 
+What should a creditor do to cancel a future SEPA direct debit execution in George? 
+Why is it necessary to have a signed SEPA direct debit mandate from the debtor? 
+How can you use templates to simplify the process of managing SEPA direct debits? 
+Managing SEPA direct debits in George 
+Unsigned SEPA direct debit actions 
+Cancel future SEPA direct debit George 
+Requirement for signed SEPA mandate 
+Using templates for SEPA direct debits 
+How can you adjust the overview of your accounts or cards in the George app? 
+What features are available when using drag-and-drop in George’s web browser version? 
+How can you create a summary card in George to group multiple elements? 
+What options are available for customizing the background of your George overview? 
+In what ways can you organize your accounts and cards into different sections? 
+Adjust overview accounts cards George app 
+Drag-and-drop features George web browser 
+Create summary card George 
+Customize background George overview 
+Organize accounts cards sections George 
+What is the purpose of having an overdraft facility in a current account? 
+How can a user set up or adjust their overdraft limit using George? 
+What steps must be followed to delete an existing overdraft agreement? 
+What conditions must be met before an overdraft can be used on an account? 
+What should a user do if they are unable to increase their overdraft limit online? 
+purpose of overdraft facility 
+set or adjust overdraft limit George 
+delete existing overdraft agreement steps 
+conditions for using overdraft 
+overdraft limit increase not possible online 
+What is a SEPA mandate and why is it important for SEPA direct debits? 
+How can a debtor view their signed SEPA mandates in George? 
+What limitations exist for creating SEPA direct debits with George? 
+Is it possible for a debtor to delete a SEPA mandate themselves? 
+What information about a SEPA mandate can a debtor see within George? 
+SEPA mandate importance in George 
+Viewing signed SEPA mandates in George 
+Limitations on creating SEPA direct debits 
+Can debtor delete SEPA mandates 
+Information visible in SEPA mandates George 
+How can I contact my advisor using George without visiting a branch? 
+What should I do if none of the provided topics match my issue when messaging my advisor? 
+How can I attach files when messaging my advisor through George? 
+What happens if my issue requires more than digital communication? 
+Where can I book an appointment if a personal meeting is needed? 
+Contact advisor George online 
+Message advisor topic selection 
+Upload files in George message 
+Personal meeting vs. digital support George 
+Book appointment George banking 
+How can you rename accounts and cards in George using the app? 
+What steps are needed to change the name of an account or card using a web browser? 
+What additional personalization options does George offer beyond renaming accounts and cards? 
+Why might it be useful to rename your accounts and cards in George? 
+How can you directly rename accounts and cards from the overview screen? 
+rename account card George app 
+rename account card George web browser 
+personalize George banking colors pictures 
+benefits rename accounts cards George 
+quick rename accounts cards George overview 
+What happens when you create an order in George without signing it? 
+How can you access your open orders using the George App? 
+What options are available for managing an open order via a web browser? 
+What might be the reason if an order does not appear under "Open Orders"? 
+What happens to an order once it is signed in George? 
+George unsigned order process 
+Viewing open orders in George App 
+Edit delete sign open order George Web 
+Open order missing reasons George 
+After signing an order George status 
+How can I use filters in George to quickly find specific transactions? 
+What is the default transaction history period available in George, and how can it be extended? 
+How do I search for transactions by amount and date using the George app? 
+What options are available for filtering transactions by type (incoming, outgoing, highlighted) in 
+George? 
+Is it possible to export or print the search results after finding transactions in George? 
+George filters for quick transaction search 
+Default transaction history in George and archive extension 
+Search by amount and date in George app 
+Filter transactions by type in George (incoming, outgoing, highlighted) 
+Export and print search results in George 
+How can I reorder my credit card using the George app or browser? 
+What happens to my old credit card once I reorder a new one through George? 
+Will my PIN change if I reorder a credit card without blocking it? 
+Where can I check the status of my reordered credit card in George? 
+What should I do if my address has changed before reordering my credit card? 
+Reorder credit card via George app 
+Lock old credit card after reorder 
+Credit card PIN after reorder process 
+Check credit card status in George 
+Update address before credit card reorder 
+How can I reorder my debit card using the George app or browser? 
+What steps should I follow if I want to reorder my debit card through the George web browser? 
+Will my PIN change when I reorder my debit card without blocking the old one? 
+How can I check the status of my newly reordered debit card in George? 
+What should I do if my address has changed before reordering my debit card? 
+reorder debit card George app steps 
+reorder debit card George web browser instructions 
+debit card reorder PIN change 
+check debit card status George app 
+change address before reordering debit card 
+What is "Round Up Savings" and how does it help users save money? 
+How can users activate the "Round Up Savings" feature in the George app? 
+What payment methods can be selected for rounding up transactions? 
+What customization options are available when setting up "Round Up Savings"? 
+Where does the rounded-up money get deposited once the service is activated? 
+Round Up Savings purpose 
+Activate Round Up Savings George app 
+Payment options for rounding up 
+Round Up Savings customization settings 
+Destination of rounded-up funds 
+How can I access my savings account history in George? 
+What time period does the standard savings account history cover, and how can I extend it? 
+What types of transaction information can I view and edit in George? 
+How can I search for specific transactions within my savings account history? 
+What additional features does George offer when viewing a transaction in the history? 
+access savings account history George 
+savings account history time period extension 
+transaction details editing in George 
+search transactions by amount or date 
+features for viewing transaction details George 
+What are the different ways to make a transfer with George? 
+How does the "Scan & Pay" feature work in the George App? 
+What steps must be followed to complete a transfer using "Scan & Pay" via a web browser? 
+Why is it important to manually check the information after using "Scan & Pay"? 
+What permissions does George require when scanning a QR code via a web browser? 
+transfer methods in George 
+how George App Scan & Pay works 
+steps for Scan & Pay on web browser 
+importance of checking transfer information manually 
+George permissions needed for QR code scan 
+What is an Instant Payment (SEPA) and how does it work within the EU and EEA? 
+What are the steps to initiate an Instant Payment (SEPA) using George? 
+What should you do if the "Instant Payment (SEPA)" checkbox does not appear during a 
+transfer? 
+What is the maximum amount that can be transferred using Instant Payment (SEPA)? 
+Are Instant Payments (SEPA) free of charge when using George? 
+Instant Payment SEPA definition EU EEA 
+Initiating Instant Payment SEPA steps George 
+Instant Payment SEPA checkbox missing solution 
+Instant Payment SEPA maximum transfer amount 
+George Instant Payment SEPA fees 
+What is an "Own Transfer" in George and how does it work? 
+How do you initiate an Own Transfer using the George app? 
+What steps are required to complete an Own Transfer via a web browser? 
+What happens immediately after you complete an Own Transfer in George? 
+What options do you have if you want to adjust the execution date or payment reference during 
+an Own Transfer? 
+Definition of Own Transfer in George 
+How to make Own Transfer in George app 
+Steps for Own Transfer on George web browser 
+Immediate effects after completing Own Transfer 
+Edit execution date or payment reference in George 
+What is required to authorize a SEPA direct debit in George? 
+In which region are SEPA direct debits available? 
+How can you view your signed SEPA mandates in George? 
+Who is responsible for deleting a SEPA mandate? 
+What role does the SEPA mandate data play in the direct debit process? 
+requirements for SEPA direct debit authorization George 
+SEPA direct debit availability region 
+view signed SEPA mandates George 
+who can delete SEPA mandates 
+SEPA mandate data role in direct debit 
+How can you view your credit card PIN using the George app? 
+What is required to confirm the display of the PIN in the George app or web browser? 
+How many times per day can you display your credit card PIN using George? 
+What is the recommended way to change your s credit card PIN to a custom code? 
+Why should you avoid easily guessable combinations for your credit card PIN? 
+view credit card PIN George app 
+confirm PIN display signing method 
+maximum daily PIN display attempts George 
+change s credit card PIN self-service 
+avoid guessable PIN combinations reason 
+What should you do if you forget the 4-digit PIN code of your debit card? 
+How can George help users retrieve their debit card PIN when on the move or at home? 
+Are there any fees associated with displaying the PIN via George, and how are users informed? 
+What steps are required to view your PIN using the George app? 
+What is the procedure to view your PIN when accessing George via a web browser? 
+forgot debit card PIN solution George 
+George app show debit card PIN steps 
+display PIN fees George information 
+retrieve debit PIN George app process 
+view debit PIN web browser instructions 
+What is the difference between a SEPA transfer and an international (non-SEPA) transfer 
+according to George? 
+How does George automatically recognize that a transfer should be categorized as non-SEPA? 
+What additional information does George require when preparing a non-SEPA transfer? 
+Who can bear the expenses for a foreign transfer initiated through George? 
+Why can't the exact fees for international transfers be specified in the George system? 
+SEPA vs non-SEPA transfer differences 
+Automatic detection of non-SEPA transfers in George 
+Required fields for non-SEPA transfer setup 
+Foreign transfer cost responsibility options 
+Variability of international transfer fees 
+How can you create a tax payment transfer using George? 
+What should you do if a tax authority is not listed when creating a transfer? 
+How do you add tax positions like turnover tax or wage tax to your transfer in George? 
+What happens if you don't select a transfer date for your tax payment? 
+How can you reuse a tax payment transfer for future use in George? 
+Create tax payment George 
+Missing tax authority George transfer 
+Add tax positions turnover wage tax George 
+No transfer date consequence George tax payment 
+Save tax payment template George 
+What is Split Now and how does it help manage larger credit card expenses? 
+What are the fees associated with using Split Now, and when are they displayed? 
+What steps are involved in splitting a payment using the George App? 
+How does the process of using Split Now differ when using a web browser instead of the app? 
+Why is it recommended to assess your financial situation before using Split Now? 
+Split Now credit card payment benefits 
+Split Now usage fees George app 
+Steps to split payment George App 
+Split Now browser process steps 
+Financial assessment advice Split Now 
+What are standing orders and how are they managed in George? 
+What is the difference between a standing order and a sweep order? 
+What are the steps to create a standing order using the George app? 
+Until when can you edit a standing order before its next execution date? 
+How can you suspend a standing order in George? 
+standing orders George management 
+standing order vs sweep order difference 
+create standing order steps George app 
+edit standing order deadline George 
+suspend standing order procedure George 
+What is the difference between a standing order and a sweep order in George? 
+How can you create a new sweep order using the George app? 
+What are the interval options available for executing sweep orders? 
+How can you edit an existing sweep order, and what is the deadline for making changes? 
+How can you pause a sweep order before the next execution date? 
+difference standing order sweep order George 
+create sweep order George app steps 
+sweep order execution interval options 
+edit sweep order deadline and process 
+pause sweep order before next execution 
+How can George help you find specific transactions using text search? 
+What is the maximum historical time range you can search without a plugin, and how can you 
+extend it? 
+Which formats can you use to search for a specific time frame in George? 
+How does George handle searches for approximate or absolute amounts? 
+What should you do if you want to search for a number as part of a text rather than an amount? 
+George text search functionality 
+Transaction search historical range extension 
+Date format search options in George 
+Search for approximate vs absolute amounts 
+Search text containing numbers without interpreting as amounts 
+How can you create a transfer template in George? 
+What steps are needed to access your saved templates in George? 
+How do you use a template for a new transfer in the George App? 
+What is the process to use a template via the address book in George? 
+What additional options are available after creating a transfer with a template, like Instant 
+Payment? 
+create template George transfer 
+access saved templates George 
+use template new transfer George App 
+use template address book George 
+instant payment option after transfer with template 
+What types of orders can be managed in George's "Upcoming Orders" section? 
+How does a standing order function in George, and what flexibility do users have with it? 
+What differentiates a sweep order from a standing order in George? 
+What are scheduled orders, and where are unsigned scheduled orders displayed? 
+How can users find more information about their orders in the George Web and App? 
+Types of upcoming orders in George 
+How standing orders work in George 
+Difference between sweep orders and standing orders 
+Meaning of scheduled orders in George 
+Finding order details in George Web and App 
+What is the main difference between a debit card and a credit card? 
+How does the payment process differ when using a debit card compared to a credit card? 
+What should you consider before making a large payment with a debit or credit card? 
+How can you make contactless payments using debit and credit cards? 
+Why might some companies only accept credit cards and not debit cards? 
+difference debit card credit card 
+debit card vs credit card payment timing 
+debit card credit card limit check 
+contactless payments with cards 
+companies accepting only credit cards 
+What is the primary difference between the order list and the transaction history in George? 
+How long are executed and failed orders stored in the order list? 
+What actions can you perform directly within the order list on the George web browser? 
+How can you access your transactions history through the George app? 
+What additional features are available when viewing the transaction details in the transactions 
+history? 
+difference between order list and transaction history George 
+storage duration executed failed orders George 
+actions editable in order list George web 
+access transactions history George app 
+features in transaction details George 
+How far back can I view my account history in George without any additional plugins? 
+What steps do I follow to access my account history through George? 
+How are debit card payments reflected in the George account history? 
+What additional information can George provide when I click on a specific transaction? 
+How can I save or print a record of a specific transaction in George? 
+account history duration George 
+access current account transactions George 
+debit card payment appearance George 
+transaction details available George 
+download or print transaction George 
+How far back does the standard credit card history in George go, and how can you extend it? 
+What steps must you follow in George to access your credit card transaction history via the app? 
+What additional information can you find when you click on a single transaction in George? 
+How can users search and filter their credit card transactions in George? 
+What options are available if you need to prove a specific transaction or keep it for 
+documentation purposes? 
+George credit card history time range 
+Accessing transaction history steps app 
+Detailed transaction information George 
+Searching and filtering credit card transactions 
+Printing or downloading credit card transactions 
+How can you access your credit card overview in George? 
+What charges apply when withdrawing cash with your credit card? 
+What functions can you manage under the "Functions" section in George? 
+How can you increase your available credit card amount? 
+How does George help you monitor your credit card transactions? 
+Access credit card overview George 
+Credit card cash withdrawal fees 
+Manage credit card functions George 
+Increase available amount credit card George 
+Monitor credit card transactions George 
+How can I access the debit card overview in the George app and web browser? 
+What information is available in the debit card overview? 
+How does George display expenses and authorised payments for your debit card? 
+Where can I find details about my debit card’s limit and how can I adjust it? 
+What additional information can you find by clicking "Info" in the George app? 
+Accessing debit card overview George app web 
+Debit card overview available information 
+George app expenses and authorised payments view 
+Adjusting debit card limit George app 
+George app debit card info details 
+What are the four different statuses for payment orders in George? 
+What happens if you set up an order but forget to hit the "Sign" button? 
+What is the difference between open orders and upcoming orders? 
+How can you manage standing orders within George? 
+What should you do if your order fails to execute? 
+George payment order statuses 
+Forgotten to sign payment order George 
+Open vs upcoming orders George 
+Managing standing orders George 
+Failed payment order George actions 
+How can you access your savings account overview in the George app or web browser? 
+What information is available in the savings account overview? 
+How can you find more details about a specific transaction in George? 
+What is the "7 Year Archive" plugin and what benefit does it provide? 
+How can you activate the "Round Up Savings" feature and what is its advantage? 
+access savings account overview George app 
+information shown in savings account overview 
+find transaction details George 
+7 Year Archive plugin benefits 
+activate Round Up Savings feature 

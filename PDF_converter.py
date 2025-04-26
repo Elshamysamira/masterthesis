@@ -8,4 +8,4 @@ def pdf_to_txt(pdf_path, txt_path):
             f.write(text)
         print(f"saved text to {txt_path}")
 
-pdf_to_txt("questions_german/questions_german.pdf", "questions_german/questions_german.txt")
+pdf_to_txt("queries/queries_english/questions_english.pdf", "queries/queries_english/questions_english.txt")
