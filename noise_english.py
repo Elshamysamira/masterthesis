@@ -1,13 +1,16 @@
 import os
 import random
 import nltk
+
+# Download NLTK tokenizer if needed
+nltk.download('punkt')
+
 from nltk.tokenize import word_tokenize
 from textblob import TextBlob
 import unidecode
 from docx import Document  # For processing Word documents
 
-# Download NLTK tokenizer if needed
-nltk.download('punkt')
+
 
 # Define homophone errors
 HOMOPHONE_ERRORS = {
@@ -27,7 +30,7 @@ PUNCTUATION_ERRORS = [",", ".", "!", "?", ";", ":", "-", "_", "(", ")"]
 
 # Function to introduce a typo
 def introduce_typo(word):
-    if len(word) > 3:
+    if len(word) > 2:
         typo_type = random.choice(["swap", "delete", "insert"])
         index = random.randint(0, len(word) - 2)
 
@@ -72,7 +75,9 @@ def apply_noise(text, noise_level="moderate"):
 
     for word in words:
         if random.random() < (0.05 if noise_level == "light" else 0.10 if noise_level == "moderate" else 0.20):
-            error_type = random.choice(["typo", "homophone", "formatting"])
+            error_type = random.choices(
+                ["typo", "homophone", "formatting"],
+                weights=[0.6,0.2,0.2])[0]
             if error_type == "typo":
                 new_words.append(introduce_typo(word))
             elif error_type == "homophone":

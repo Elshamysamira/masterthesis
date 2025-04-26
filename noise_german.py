@@ -5,8 +5,7 @@ from nltk.tokenize import word_tokenize
 from textblob_de import TextBlobDE  # TextBlob for German
 import unidecode
 
-# Download NLTK tokenizer if needed
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Define German homophone errors (common ones)
 HOMOPHONE_ERRORS_GERMAN = {
@@ -26,7 +25,7 @@ PUNCTUATION_ERRORS = [",", ".", "!", "?", ";", ":", "-", "_", "(", ")", "..."]
 
 # Function to introduce a typo
 def introduce_typo(word):
-    if len(word) > 3:
+    if len(word) > 2:
         typo_type = random.choice(["swap", "delete", "insert"])
         index = random.randint(0, len(word) - 2)
 
@@ -71,7 +70,9 @@ def apply_noise(text, noise_level="moderate"):
 
     for word in words:
         if random.random() < (0.05 if noise_level == "light" else 0.10 if noise_level == "moderate" else 0.20):
-            error_type = random.choice(["typo", "homophone", "formatting"])
+            error_type = random.choices(
+                ["typo", "homophone", "formatting"],
+                weights=[0.6,0.2,0.2])[0]
             if error_type == "typo":
                 new_words.append(introduce_typo(word))
             elif error_type == "homophone":
@@ -125,12 +126,12 @@ def process_documents(input_folder, output_folder, noise_level):
             print(f"Processed {filename} with {noise_level} noise.")
 
 # Paths
-queries_file = "queries.txt"
-input_doc_folder = "documents/"
-output_doc_folder = "noisy_documents/"
+queries_file = "queries/queries_german/questions_german.txt"
+input_doc_folder = "documents/txt_german/test"
+output_doc_folder = "noisy_documents/german/"
 
 # Noise levels
-query_noise_level = "light"
+query_noise_level = "moderate"
 doc_noise_level = "moderate"
 
 # Execution
