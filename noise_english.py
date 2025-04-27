@@ -7,8 +7,7 @@ nltk.download('punkt')
 
 from nltk.tokenize import word_tokenize
 from textblob import TextBlob
-import unidecode
-from docx import Document  # For processing Word documents
+#from docx import Document  # For processing Word documents
 
 
 
@@ -64,6 +63,53 @@ def introduce_grammar_errors(sentence):
         words[index] = introduce_typo(words[index])
     return " ".join(words)
 
+
+def introduce_real_grammar_errors(sentence):
+    words = word_tokenize(sentence)
+    if len(words) < 3:
+        return sentence  # Not enough words to manipulate
+
+    error_type = random.choice(["subject_verb", "tense", "preposition", "article", "plurality"])
+
+    if error_type == "subject_verb":
+        # Force wrong subject-verb agreement
+        for i, word in enumerate(words):
+            if word.lower() in ["is", "are", "was", "were", "has", "have"]:
+                words[i] = random.choice(["is", "are", "was", "were", "has", "have"])
+                break
+
+    elif error_type == "tense":
+        # Swap past tense verbs to present or vice versa
+        for i, word in enumerate(words):
+            if word.endswith("ed"):
+                words[i] = word.rstrip("ed")  # Remove 'ed' to simulate wrong tense
+                break
+
+    elif error_type == "preposition":
+        # Replace common prepositions incorrectly
+        prepositions = {"in": "on", "on": "at", "at": "in", "to": "for", "for": "to", "with": "by"}
+        for i, word in enumerate(words):
+            if word.lower() in prepositions:
+                words[i] = prepositions[word.lower()]
+                break
+
+    elif error_type == "article":
+        # Remove articles ("a", "an", "the")
+        words = [w for w in words if w.lower() not in ["a", "an", "the"]]
+
+    elif error_type == "plurality":
+        # Make plural nouns singular or vice versa (simple way)
+        for i, word in enumerate(words):
+            if word.endswith("s"):
+                words[i] = word.rstrip("s")  # Remove plural
+                break
+            elif len(word) > 3 and word.isalpha():
+                words[i] = word + "s"  # Wrongly pluralize
+                break
+
+    return " ".join(words)
+
+
 # Function to introduce formatting errors
 def introduce_formatting(sentence):
     return sentence.replace(" ", "") if random.random() > 0.5 else sentence.replace(" ", "  ")
@@ -91,9 +137,12 @@ def apply_noise(text, noise_level="moderate"):
     
     if random.random() < (0.02 if noise_level == "light" else 0.05 if noise_level == "moderate" else 0.10):
         noisy_text = introduce_punctuation(noisy_text)
-    
+
     if random.random() < (0.02 if noise_level == "light" else 0.05 if noise_level == "moderate" else 0.10):
         noisy_text = introduce_grammar_errors(noisy_text)
+
+    if random.random() < (0.02 if noise_level == "light" else 0.05 if noise_level == "moderate" else 0.10):
+        noisy_text = introduce_real_grammar_errors(noisy_text)
 
     return noisy_text
 

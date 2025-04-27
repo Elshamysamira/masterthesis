@@ -7,7 +7,7 @@ import unidecode
 
 nltk.download('punkt_tab')
 
-# Define German homophone errors (common ones)
+# Define German homophone errors
 HOMOPHONE_ERRORS_GERMAN = {
     "seid": "seit",
     "seit": "seid",
@@ -50,7 +50,7 @@ def introduce_punctuation(sentence):
         words[index] = random.choice(PUNCTUATION_ERRORS)
     return "".join(words)
 
-# Function to introduce grammatical errors
+# Function to introduce simple grammar typos
 def introduce_grammar_errors(sentence):
     blob = TextBlobDE(sentence)
     words = blob.words
@@ -59,11 +59,58 @@ def introduce_grammar_errors(sentence):
         words[index] = introduce_typo(words[index])
     return " ".join(words)
 
+# NEW: Function to introduce real grammatical errors in German
+def introduce_real_grammar_errors(sentence):
+    words = word_tokenize(sentence, language="german")
+    if len(words) < 3:
+        return sentence
+
+    error_type = random.choice(["verb_conjugation", "article_error", "case_error", "plural_error", "preposition_error"])
+
+    if error_type == "verb_conjugation":
+        # Swap common verbs to wrong forms
+        verbs = {"bin": "bist", "bist": "bin", "ist": "sind", "sind": "ist", "habt": "hat", "hat": "haben"}
+        for i, word in enumerate(words):
+            if word.lower() in verbs:
+                words[i] = verbs[word.lower()]
+                break
+
+    elif error_type == "article_error":
+        # Replace der/die/das randomly
+        articles = {"der": "die", "die": "das", "das": "der", "ein": "eine", "eine": "ein"}
+        for i, word in enumerate(words):
+            if word.lower() in articles:
+                words[i] = articles[word.lower()]
+                break
+
+    elif error_type == "case_error":
+        # Nominative instead of accusative/dative etc. (simulate)
+        for i, word in enumerate(words):
+            if word.lower() in ["dem", "den", "des"]:
+                words[i] = "der"
+                break
+
+    elif error_type == "plural_error":
+        # Remove 'n' or 'e' for plural errors
+        for i, word in enumerate(words):
+            if word.endswith("n") or word.endswith("e"):
+                words[i] = word[:-1]
+                break
+
+    elif error_type == "preposition_error":
+        prepositions = {"in": "auf", "auf": "an", "an": "bei", "bei": "mit", "mit": "von"}
+        for i, word in enumerate(words):
+            if word.lower() in prepositions:
+                words[i] = prepositions[word.lower()]
+                break
+
+    return " ".join(words)
+
 # Function to introduce formatting errors
 def introduce_formatting(sentence):
     return sentence.replace(" ", "") if random.random() > 0.5 else sentence.replace(" ", "  ")
 
-# Function to apply noise at different levels
+# Function to apply noise
 def apply_noise(text, noise_level="moderate"):
     words = word_tokenize(text, language="german")
     new_words = []
@@ -72,7 +119,7 @@ def apply_noise(text, noise_level="moderate"):
         if random.random() < (0.05 if noise_level == "light" else 0.10 if noise_level == "moderate" else 0.20):
             error_type = random.choices(
                 ["typo", "homophone", "formatting"],
-                weights=[0.6,0.2,0.2])[0]
+                weights=[0.6, 0.2, 0.2])[0]
             if error_type == "typo":
                 new_words.append(introduce_typo(word))
             elif error_type == "homophone":
@@ -90,9 +137,12 @@ def apply_noise(text, noise_level="moderate"):
     if random.random() < (0.02 if noise_level == "light" else 0.05 if noise_level == "moderate" else 0.10):
         noisy_text = introduce_grammar_errors(noisy_text)
 
+    if random.random() < (0.02 if noise_level == "light" else 0.05 if noise_level == "moderate" else 0.10):
+        noisy_text = introduce_real_grammar_errors(noisy_text)
+
     return noisy_text
 
-# Function to read queries from a file
+# Function to read queries
 def load_queries(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         queries = [line.strip() for line in file.readlines()]
@@ -105,7 +155,7 @@ def process_queries(queries, noise_level, output_file):
         file.write("\n".join(noisy_queries))
     return noisy_queries
 
-# Function to process TXT documents
+# Function to process documents
 def process_documents(input_folder, output_folder, noise_level):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -125,6 +175,8 @@ def process_documents(input_folder, output_folder, noise_level):
 
             print(f"Processed {filename} with {noise_level} noise.")
 
+# --- Main Execution ---
+
 # Paths
 queries_file = "queries/queries_german/questions_german.txt"
 input_doc_folder = "documents/txt_german/test"
@@ -140,7 +192,7 @@ noisy_queries = process_queries(queries, query_noise_level, "noisy_queries.txt")
 
 process_documents(input_doc_folder, output_doc_folder, doc_noise_level)
 
-# Display examples
+# Display some examples
 print("\nSample Queries:")
 for i in range(min(3, len(queries))):
     print(f"Original: {queries[i]}")
