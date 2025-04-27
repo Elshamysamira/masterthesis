@@ -9,6 +9,7 @@ from langchain_community.docstore.in_memory import InMemoryDocstore
 from langchain_community.vectorstores import FAISS
 from langchain_cohere import ChatCohere
 from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_cohere import CohereEmbeddings
 import faiss
 import numpy as np
 from langchain_core.documents import Document
@@ -41,7 +42,10 @@ else:
 llm = ChatCohere(model="command-r-plus")
 
 # Initialize HuggingFace embeddings
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+#embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+# Initialize Cohere embeddings (using embed-multilingual-v3.0)
+embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
+
 
 # Load documents from a folder
 folder_path = "documents"  # Path to your folder with .txt files
@@ -68,7 +72,7 @@ else:
 
 # Split documents into smaller chunks
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1000,  # characters
+    chunk_size=300,  # characters
     chunk_overlap=200,  # characters
     add_start_index=True  # track index in original document
 )
@@ -111,7 +115,6 @@ def load_noisy_queries(file_path):
         queries = [line.strip() for line in file.readlines()]
     return queries
 
-# Path to the saved noisy queries
 noisy_queries_file = "noisy_queries.txt"  # Adjust path if necessary
 noisy_queries = load_noisy_queries(noisy_queries_file)
 
@@ -175,6 +178,7 @@ def retrieve_passage_with_metrics(query, documents, embeddings, top_k=3):
     hits_at_k = compute_hits_at_k(relevance_scores, top_k)
     mrr = compute_mrr(relevance_scores)
     precision_at_k = compute_precision_at_k(relevance_scores, top_k)
+   
     
     return passages, hits_at_k, mrr, precision_at_k, similarity_score
 
@@ -208,6 +212,7 @@ for i, query in enumerate(noisy_queries, 1):
     print(f"Hits@3 for Query {i}: {hits_at_k}")
     print(f"MRR@3 for Query {i}: {mrr:.4f}")
     print(f"Precision@3 for Query {i}: {precision_at_k:.4f}\n")
+    print(f"Cosine Similarity for Query {i}: {cosine_similarity:.4f}\n")
     print("=" * 80)
 
 # Convert results to a Pandas DataFrame

@@ -150,10 +150,60 @@ def load_queries(file_path):
 
 # Function to process and save noisy queries
 def process_queries(queries, noise_level, output_file):
-    noisy_queries = [apply_noise(query, noise_level) for query in queries]
+    # Define how many errors per noise level
+    noise_to_error_count = {
+        "light": 1,
+        "moderate": 2,
+        "heavy": 3,
+    }
+    
+    errors_per_query = noise_to_error_count.get(noise_level, 2)  # Default to moderate if not found
+    
+    noisy_queries = []
+    
+    for query in queries:
+        words = word_tokenize(query, language="german")
+        
+        # Apply multiple errors
+        for _ in range(errors_per_query):
+            error_type = random.choices(["typo", "homophone", "formatting", "punctuation", "grammar", "real_grammar"],
+                                        weights=[0.4, 0.2, 0.1, 0.1, 0.1, 0.1])[0]
+            
+            if error_type == "typo" and words:
+                index = random.randint(0, len(words) - 1)
+                words[index] = introduce_typo(words[index])
+            
+            elif error_type == "homophone" and words:
+                index = random.randint(0, len(words) - 1)
+                words[index] = introduce_homophone(words[index])
+            
+            elif error_type == "formatting":
+                query = introduce_formatting(" ".join(words))
+                words = word_tokenize(query, language="german")
+            
+            elif error_type == "punctuation":
+                query = introduce_punctuation(" ".join(words))
+                words = word_tokenize(query, language="german")
+            
+            elif error_type == "grammar":
+                query = introduce_grammar_errors(" ".join(words))
+                words = word_tokenize(query, language="german")
+            
+            elif error_type == "real_grammar":
+                query = introduce_real_grammar_errors(" ".join(words))
+                words = word_tokenize(query, language="german")
+        
+        # Rebuild final query
+        noisy_query = " ".join(words)
+        noisy_queries.append(noisy_query)
+    
+    # Save to file
     with open(output_file, "w", encoding="utf-8") as file:
         file.write("\n".join(noisy_queries))
+    
     return noisy_queries
+
+
 
 # Function to process documents
 def process_documents(input_folder, output_folder, noise_level):
@@ -179,16 +229,21 @@ def process_documents(input_folder, output_folder, noise_level):
 
 # Paths
 queries_file = "queries/queries_german/questions_german.txt"
-input_doc_folder = "documents/txt_german/test"
-output_doc_folder = "noisy_documents/german/"
+input_doc_folder = "documents/txt_german"
+output_doc_folder = "documents/noisy_documents_severe_german"
+output_noisy_queries_folder = "queries/noisy_queries_severe_german"
+
 
 # Noise levels
-query_noise_level = "moderate"
-doc_noise_level = "moderate"
+query_noise_level = "heavy"
+doc_noise_level = "heavy"
+
+os.makedirs("queries/noisy_queries_severe_german", exist_ok=True)
 
 # Execution
 queries = load_queries(queries_file)
-noisy_queries = process_queries(queries, query_noise_level, "noisy_queries.txt")
+noisy_queries_file = os.path.join("queries/noisy_queries_severe_german", "noisy_queries_severe_german.txt")
+noisy_queries = process_queries(queries, query_noise_level, noisy_queries_file)
 
 process_documents(input_doc_folder, output_doc_folder, doc_noise_level)
 

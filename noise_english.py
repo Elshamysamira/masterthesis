@@ -1,18 +1,14 @@
 import os
 import random
 import nltk
+from nltk.tokenize import word_tokenize
+from textblob import TextBlob  # TextBlob for English
+import unidecode
 
-# Download NLTK tokenizer if needed
 nltk.download('punkt')
 
-from nltk.tokenize import word_tokenize
-from textblob import TextBlob
-#from docx import Document  # For processing Word documents
-
-
-
-# Define homophone errors
-HOMOPHONE_ERRORS = {
+# Define English homophone errors
+HOMOPHONE_ERRORS_ENGLISH = {
     "their": "there",
     "there": "their",
     "effect": "affect",
@@ -24,8 +20,8 @@ HOMOPHONE_ERRORS = {
     "lose": "loose",
 }
 
-# Define punctuation errors
-PUNCTUATION_ERRORS = [",", ".", "!", "?", ";", ":", "-", "_", "(", ")"]
+# Define English punctuation errors
+PUNCTUATION_ERRORS = [",", ".", "!", "?", ";", ":", "-", "_", "(", ")", "..."]
 
 # Function to introduce a typo
 def introduce_typo(word):
@@ -33,18 +29,18 @@ def introduce_typo(word):
         typo_type = random.choice(["swap", "delete", "insert"])
         index = random.randint(0, len(word) - 2)
 
-        if typo_type == "swap":  
+        if typo_type == "swap":
             word = word[:index] + word[index + 1] + word[index] + word[index + 2:]
-        elif typo_type == "delete":  
+        elif typo_type == "delete":
             word = word[:index] + word[index + 1:]
-        elif typo_type == "insert":  
+        elif typo_type == "insert":
             random_char = random.choice("abcdefghijklmnopqrstuvwxyz")
             word = word[:index] + random_char + word[index:]
     return word
 
 # Function to introduce a homophone error
 def introduce_homophone(word):
-    return HOMOPHONE_ERRORS.get(word.lower(), word)
+    return HOMOPHONE_ERRORS_ENGLISH.get(word.lower(), word)
 
 # Function to introduce punctuation errors
 def introduce_punctuation(sentence):
@@ -54,7 +50,7 @@ def introduce_punctuation(sentence):
         words[index] = random.choice(PUNCTUATION_ERRORS)
     return "".join(words)
 
-# Function to introduce grammatical errors
+# Function to introduce simple grammar typos
 def introduce_grammar_errors(sentence):
     blob = TextBlob(sentence)
     words = blob.words
@@ -63,13 +59,13 @@ def introduce_grammar_errors(sentence):
         words[index] = introduce_typo(words[index])
     return " ".join(words)
 
-
+# NEW: Function to introduce real grammatical errors in English
 def introduce_real_grammar_errors(sentence):
-    words = word_tokenize(sentence)
+    words = word_tokenize(sentence, language="english")
     if len(words) < 3:
-        return sentence  # Not enough words to manipulate
+        return sentence
 
-    error_type = random.choice(["subject_verb", "tense", "preposition", "article", "plurality"])
+    error_type = random.choice(["subject_verb", "tense", "article", "plural", "preposition"])
 
     if error_type == "subject_verb":
         # Force wrong subject-verb agreement
@@ -79,51 +75,53 @@ def introduce_real_grammar_errors(sentence):
                 break
 
     elif error_type == "tense":
-        # Swap past tense verbs to present or vice versa
+        # Change past tense to present (simple version)
         for i, word in enumerate(words):
             if word.endswith("ed"):
-                words[i] = word.rstrip("ed")  # Remove 'ed' to simulate wrong tense
+                words[i] = word.rstrip("ed")
+                break
+
+    elif error_type == "article":
+        # Remove or wrong article
+        articles = {"a": "the", "an": "a", "the": "an"}
+        for i, word in enumerate(words):
+            if word.lower() in articles:
+                words[i] = articles[word.lower()]
+                break
+
+    elif error_type == "plural":
+        # Make plural wrong
+        for i, word in enumerate(words):
+            if word.endswith("s"):
+                words[i] = word.rstrip("s")
+                break
+            elif len(word) > 3 and word.isalpha():
+                words[i] = word + "s"
                 break
 
     elif error_type == "preposition":
-        # Replace common prepositions incorrectly
         prepositions = {"in": "on", "on": "at", "at": "in", "to": "for", "for": "to", "with": "by"}
         for i, word in enumerate(words):
             if word.lower() in prepositions:
                 words[i] = prepositions[word.lower()]
                 break
 
-    elif error_type == "article":
-        # Remove articles ("a", "an", "the")
-        words = [w for w in words if w.lower() not in ["a", "an", "the"]]
-
-    elif error_type == "plurality":
-        # Make plural nouns singular or vice versa (simple way)
-        for i, word in enumerate(words):
-            if word.endswith("s"):
-                words[i] = word.rstrip("s")  # Remove plural
-                break
-            elif len(word) > 3 and word.isalpha():
-                words[i] = word + "s"  # Wrongly pluralize
-                break
-
     return " ".join(words)
-
 
 # Function to introduce formatting errors
 def introduce_formatting(sentence):
     return sentence.replace(" ", "") if random.random() > 0.5 else sentence.replace(" ", "  ")
 
-# Function to apply noise at different levels
+# Function to apply noise
 def apply_noise(text, noise_level="moderate"):
-    words = word_tokenize(text)
+    words = word_tokenize(text, language="english")
     new_words = []
 
     for word in words:
         if random.random() < (0.05 if noise_level == "light" else 0.10 if noise_level == "moderate" else 0.20):
             error_type = random.choices(
                 ["typo", "homophone", "formatting"],
-                weights=[0.6,0.2,0.2])[0]
+                weights=[0.6, 0.2, 0.2])[0]
             if error_type == "typo":
                 new_words.append(introduce_typo(word))
             elif error_type == "homophone":
@@ -134,7 +132,7 @@ def apply_noise(text, noise_level="moderate"):
             new_words.append(word)
 
     noisy_text = " ".join(new_words)
-    
+
     if random.random() < (0.02 if noise_level == "light" else 0.05 if noise_level == "moderate" else 0.10):
         noisy_text = introduce_punctuation(noisy_text)
 
@@ -146,7 +144,7 @@ def apply_noise(text, noise_level="moderate"):
 
     return noisy_text
 
-# Function to read queries from a file
+# Function to read queries
 def load_queries(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         queries = [line.strip() for line in file.readlines()]
@@ -154,12 +152,59 @@ def load_queries(file_path):
 
 # Function to process and save noisy queries
 def process_queries(queries, noise_level, output_file):
-    noisy_queries = [apply_noise(query, noise_level) for query in queries]
+    # Define how many errors per noise level
+    noise_to_error_count = {
+        "light": 1,
+        "moderate": 2,
+        "heavy": 3,
+    }
+    
+    errors_per_query = noise_to_error_count.get(noise_level, 2)  # Default to moderate
+    
+    noisy_queries = []
+    
+    for query in queries:
+        words = word_tokenize(query, language="english")
+        
+        # Apply multiple errors
+        for _ in range(errors_per_query):
+            error_type = random.choices(["typo", "homophone", "formatting", "punctuation", "grammar", "real_grammar"],
+                                        weights=[0.4, 0.2, 0.1, 0.1, 0.1, 0.1])[0]
+            
+            if error_type == "typo" and words:
+                index = random.randint(0, len(words) - 1)
+                words[index] = introduce_typo(words[index])
+            
+            elif error_type == "homophone" and words:
+                index = random.randint(0, len(words) - 1)
+                words[index] = introduce_homophone(words[index])
+            
+            elif error_type == "formatting":
+                query = introduce_formatting(" ".join(words))
+                words = word_tokenize(query, language="english")
+            
+            elif error_type == "punctuation":
+                query = introduce_punctuation(" ".join(words))
+                words = word_tokenize(query, language="english")
+            
+            elif error_type == "grammar":
+                query = introduce_grammar_errors(" ".join(words))
+                words = word_tokenize(query, language="english")
+            
+            elif error_type == "real_grammar":
+                query = introduce_real_grammar_errors(" ".join(words))
+                words = word_tokenize(query, language="english")
+        
+        noisy_query = " ".join(words)
+        noisy_queries.append(noisy_query)
+    
+    # Save to file
     with open(output_file, "w", encoding="utf-8") as file:
         file.write("\n".join(noisy_queries))
+    
     return noisy_queries
 
-# Function to process TXT documents
+# Function to process documents
 def process_documents(input_folder, output_folder, noise_level):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -179,25 +224,29 @@ def process_documents(input_folder, output_folder, noise_level):
 
             print(f"Processed {filename} with {noise_level} noise.")
 
-# Define paths (adjust according to your VS Code workspace)
-queries_file = "queries.txt"  # Text file containing queries
-input_doc_folder = "documents/"  # Folder with original .docx files
-output_doc_folder = "noisy_documents/"  # Folder for noisy documents
+# --- Main Execution ---
 
-# Choose noise levels
-query_noise_level = "light"
-doc_noise_level = "moderate"
+# Paths
+queries_file = "queries/queries_english/questions_english.txt"
+input_doc_folder = "documents/txt_english"
+output_doc_folder = "documents/noisy_documents_severe_english"
+output_noisy_queries_folder = "queries/noisy_queries_severe_english"
 
-# Load and process queries
+# Noise levels
+query_noise_level = "heavy"
+doc_noise_level = "heavy"
+
+
+# Execution
 queries = load_queries(queries_file)
-noisy_queries = process_queries(queries, query_noise_level, "noisy_queries.txt")
+noisy_queries_file = os.path.join("queries/noisy_queries_severe_english", "noisy_queries_severe_english.txt")
+noisy_queries = process_queries(queries, query_noise_level, noisy_queries_file)
 
-# Process Word documents
 process_documents(input_doc_folder, output_doc_folder, doc_noise_level)
 
 # Display some examples
 print("\nSample Queries:")
-for i in range(3):
+for i in range(min(3, len(queries))):
     print(f"Original: {queries[i]}")
     print(f"Noisy: {noisy_queries[i]}")
     print("-" * 50)

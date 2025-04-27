@@ -9,6 +9,7 @@ from langchain_community.docstore.in_memory import InMemoryDocstore
 from langchain_community.vectorstores import FAISS
 from langchain_cohere import ChatCohere
 from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_cohere import CohereEmbeddings
 import faiss
 import numpy as np
 from langchain_core.documents import Document
@@ -41,7 +42,9 @@ else:
 llm = ChatCohere(model="command-r-plus")
 
 # Initialize HuggingFace embeddings
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+#embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+# Initialize Cohere embeddings (using embed-multilingual-v3.0)
+embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
 
 # Load documents from a folder
 folder_path = "documents"  # Path to your folder with .txt files
@@ -68,7 +71,7 @@ else:
 
 # Split documents into smaller chunks
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1000,  # characters
+    chunk_size=300,  # characters
     chunk_overlap=200,  # characters
     add_start_index=True  # track index in original document
 )
