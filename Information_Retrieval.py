@@ -9,7 +9,9 @@ from langchain_community.docstore.in_memory import InMemoryDocstore
 from langchain_community.vectorstores import FAISS
 from langchain_cohere import ChatCohere
 from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
 from langchain_cohere import CohereEmbeddings
+from langchain_openai import OpenAIEmbeddings
 import faiss
 import numpy as np
 from langchain_core.documents import Document
@@ -22,6 +24,7 @@ import subprocess
 from streamlit.web import cli as stcli
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import time
 
 # Load environment variables
 load_dotenv()
@@ -45,6 +48,7 @@ llm = ChatCohere(model="command-r-plus")
 #embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 # Initialize Cohere embeddings (using embed-multilingual-v3.0)
 embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
+#embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
 # Load documents from a folder
 folder_path = "documents"  # Path to your folder with .txt files
@@ -81,9 +85,34 @@ all_splits = text_splitter.split_documents(all_documents)
 for split in all_splits:
     if "title" not in split.metadata:
         split.metadata["title"] = "Unknown Title"
+        
+
+
+BATCH_SIZE = 30
+vectors = []
+docs = []
+
+for i in range(0, len(all_splits), BATCH_SIZE):
+    batch = all_splits[i:i + BATCH_SIZE]
+    texts = [doc.page_content for doc in batch]
+    
+    # Embed the batch
+    batch_vectors = embeddings.embed_documents(texts)  # returns list of vectors
+    
+    vectors.extend(batch_vectors)
+    docs.extend(batch)
+    time.sleep(61)
+
+# Build the FAISS store manually with vectors and docs
+vector_store = FAISS(embedding_function=embeddings)
+vector_store.index = IndexFlatL2(len(vectors[0]))  # create empty index with correct dimensions
+vector_store.index.add(np.array(vectors).astype("float32"))
+vector_store.docstore.add_documents(docs)
+vector_store.index_to_docstore_id = {i: doc.metadata["title"] for i, doc in enumerate(docs)}
+
 
 # Create FAISS vector store and add documents
-vector_store = FAISS.from_documents(all_splits, embeddings)
+#vector_store = FAISS.from_documents(all_splits, embeddings)
 
 # Verify the number of documents in the vector store
 #print(f"FAISS vector store contains {len(vector_store.index_to_docstore_id)} documents.")
