@@ -52,8 +52,8 @@ llm = ChatCohere(model="command-r-plus")
 # Initialize HuggingFace embeddings
 #embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 # Initialize Cohere embeddings (using embed-multilingual-v3.0)
-embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
-#embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
+#embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
+embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
 
 # Load documents from a folder
@@ -160,7 +160,7 @@ def load_noisy_queries(file_path):
         queries = [line.strip() for line in file.readlines()]
     return queries
 
-noisy_queries_file = "queries/noisy_queries_severe_german/noisy_queries_severe_german.txt"  # Adjust path if necessary
+noisy_queries_file = "queries/noisy_queries_light_german/noisy_queries_light_german.txt"  # Adjust path if necessary
 noisy_queries = load_noisy_queries(noisy_queries_file)
 
 # Function to compute Hits@K
@@ -265,10 +265,10 @@ for i, query in enumerate(noisy_queries, 1):
 df = pd.DataFrame(retrieval_data)
 
 # Save to CSV inside "results" folder
-output_folder = "results_cohere/crosslingual/severe_errors"
+output_folder = "results_openai/crosslingual/light_errors"
 os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
 
-output_csv = os.path.join(output_folder, "german_english_noisy_queries_clean_documents_severe_results.csv")
+output_csv = os.path.join(output_folder, "german_english_noisy_queries_clean_documents_light_results.csv")
 df.to_csv(output_csv, index=False, encoding="utf-8-sig", sep=";")
 
 print(f"\n Retrieval results saved to {output_csv} successfully!")
