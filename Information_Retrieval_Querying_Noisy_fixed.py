@@ -57,7 +57,7 @@ embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
 
 # Load documents from a folder
-folder_path = "documents/txt_english"  # Path to your folder with .txt files
+folder_path = "documents/noisy_documents_moderate_english"  # Path to your folder with .txt files
 file_paths = list(Path(folder_path).rglob("*.txt"))
 
 # Load documents from each .txt file in the folder
@@ -268,7 +268,7 @@ df = pd.DataFrame(retrieval_data)
 output_folder = "results_openai/crosslingual/moderate_errors"
 os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
 
-output_csv = os.path.join(output_folder, "german_english_noisy_queries_clean_documents_moderate_results.csv")
+output_csv = os.path.join(output_folder, "german_english_noisy_queries_noisy_documents_moderate_results.csv")
 df.to_csv(output_csv, index=False, encoding="utf-8-sig", sep=";")
 
 print(f"\n Retrieval results saved to {output_csv} successfully!")
