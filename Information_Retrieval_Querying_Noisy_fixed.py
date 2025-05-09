@@ -50,14 +50,14 @@ else:
 llm = ChatCohere(model="command-r-plus")
 
 # Initialize HuggingFace embeddings
-#embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+#embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/LaBSE")
 # Initialize Cohere embeddings (using embed-multilingual-v3.0)
 #embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
 embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
 
 # Load documents from a folder
-folder_path = "documents/noisy_documents_severe_english"  # Path to your folder with .txt files
+folder_path = "documents/txt_english"  # Path to your folder with .txt files
 file_paths = list(Path(folder_path).rglob("*.txt"))
 
 # Load documents from each .txt file in the folder
@@ -265,10 +265,10 @@ for i, query in enumerate(noisy_queries, 1):
 df = pd.DataFrame(retrieval_data)
 
 # Save to CSV inside "results" folder
-output_folder = "results_openai/crosslingual/severe_errors"
+output_folder = "results_0.4_temperature/results_openai/monolingual_no_errors_openai"
 os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
 
-output_csv = os.path.join(output_folder, "german_english_clean_queries_noisy_documents_severe_results.csv")
+output_csv = os.path.join(output_folder, "german_english_clean_queries_clean_documents_results.csv")
 df.to_csv(output_csv, index=False, encoding="utf-8-sig", sep=";")
 
 print(f"\n Retrieval results saved to {output_csv} successfully!")
