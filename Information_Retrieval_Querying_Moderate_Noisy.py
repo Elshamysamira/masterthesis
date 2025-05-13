@@ -52,8 +52,8 @@ llm = ChatCohere(model="command-r-plus")
 # Initialize HuggingFace embeddings
 #embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/LaBSE")
 # Initialize Cohere embeddings (using embed-multilingual-v3.0)
-embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
-#embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
+#embeddings = CohereEmbeddings(model="embed-multilingual-v3.0")
+embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
 
 # Load documents from a folder
@@ -265,7 +265,7 @@ for i, query in enumerate(noisy_queries, 1):
 df = pd.DataFrame(retrieval_data)
 
 # Save to CSV inside "results" folder
-output_folder = "results_0.6_temperature/results_cohere/crosslingual/moderate_errors"
+output_folder = "results_0.6_temperature/results_openai/crosslingual/moderate_errors"
 os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
 
 output_csv = os.path.join(output_folder, "german_english_noisy_queries_clean_documents_moderate_results.csv")
@@ -487,7 +487,7 @@ for i, query in enumerate(noisy_queries, 1):
 df = pd.DataFrame(retrieval_data)
 
 # Save to CSV inside "results" folder
-output_folder = "results_0.6_temperature/results_cohere/crosslingual/moderate_errors"
+output_folder = "results_0.6_temperature/results_openai/crosslingual/moderate_errors"
 os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
 
 output_csv = os.path.join(output_folder, "german_english_clean_queries_noisy_documents_moderate_results.csv")
@@ -708,7 +708,7 @@ for i, query in enumerate(noisy_queries, 1):
 df = pd.DataFrame(retrieval_data)
 
 # Save to CSV inside "results" folder
-output_folder = "results_0.6_temperature/results_cohere/crosslingual/moderate_errors"
+output_folder = "results_0.6_temperature/results_openai/crosslingual/moderate_errors"
 os.makedirs(output_folder, exist_ok=True)  # Create folder if it doesn't exist
 
 output_csv = os.path.join(output_folder, "german_english_noisy_queries_noisy_documents_moderate_results.csv")
