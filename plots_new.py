@@ -2,12 +2,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
+import re
 
 # Set Seaborn style for better aesthetics
 sns.set_theme(style="whitegrid")
 
 # Path to your CSV files (adjust as needed)
-input_folder = "results_0.4_temperature/results_cohere/monolingual_no_errors_cohere/english_english_clean_queries_clean_documents"
+input_folder = "results_0.4_temperature/results_cohere/crosslingual/light_errors"
 
 # List all CSV files in the directory
 csv_files = [f for f in os.listdir(input_folder) if f.endswith('.csv')]
@@ -16,13 +17,22 @@ csv_files = [f for f in os.listdir(input_folder) if f.endswith('.csv')]
 metrics = ["MRR@3", "Precision@3", "Hits@3", "Cosine Similarity"]
 
 # Create output folder for plots
-output_folder = "results_0.4_temperature/results_cohere/monolingual_no_errors_cohere/english_english_clean_queries_clean_documents/plots"
+output_folder = os.path.join(input_folder, "plots")
 os.makedirs(output_folder, exist_ok=True)
 
 for csv_file in csv_files:
     # Load the CSV file
     file_path = os.path.join(input_folder, csv_file)
     df = pd.read_csv(file_path, sep=";")
+    
+    # Extract experiment metadata from the folder structure
+    path_parts = input_folder.split("/")
+    noise_level = path_parts[-2] if len(path_parts) > 1 else "Unknown"
+    experiment_type = path_parts[-1] if len(path_parts) > 0 else "Unknown"
+    
+    # Add these as columns to the DataFrame
+    df["Noise Level"] = noise_level.replace("monolingual_", "")
+    df["Experiment Type"] = experiment_type.replace("_clean_queries_clean_documents", "")
     
     # Extract experiment name from file name
     experiment_name = os.path.splitext(csv_file)[0]
@@ -42,7 +52,7 @@ for csv_file in csv_files:
 
             # Create bar plot for the same metric
             plt.figure(figsize=(10, 6))
-            sns.barplot(data=df, x="Noise Level", y=metric, hue="Experiment Type", ci=None)
+            sns.barplot(data=df, x="Noise Level", y=metric, hue="Experiment Type", errorbar=None)
             plt.title(f"{metric} by Noise Level and Experiment Type - {experiment_name}")
             plt.xticks(rotation=45)
             plt.tight_layout()
