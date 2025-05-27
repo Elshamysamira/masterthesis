@@ -8,7 +8,7 @@ import re
 sns.set_theme(style="whitegrid")
 
 # Path to your CSV files (adjust as needed)
-input_folder = "results_0.4_temperature/results_cohere/crosslingual/light_errors"
+input_folder = "/workspaces/masterthesis/testy"
 
 # List all CSV files in the directory
 csv_files = [f for f in os.listdir(input_folder) if f.endswith('.csv')]
