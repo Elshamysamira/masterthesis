@@ -4,13 +4,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # ─── SETTINGS ────────────────────────────────────────────────────────────────
-input_folder = "plots/openai/openai_06_GER_ENG_NQCD"
+input_folder = "results_0.4_temperature/results_cohere/monolingual_no_errors_cohere/english_english_clean_queries_clean_documents"
 files = {
-    "light":   "german_english_noisy_queries_clean_documents_light_results.csv",
-    "moderate":"german_english_noisy_queries_clean_documents_moderate_results.csv",
-    "severe":  "german_english_noisy_queries_clean_documents_severe_results.csv"
+    #"light":   "english_english_clean_queries_clean_documents_results.csv",
+    #"moderate":"german_english_noisy_queries_clean_documents_moderate_results.csv",
+    #"severe":  "german_english_noisy_queries_clean_documents_severe_results.csv"
     #"clean_clir": "german_english_clean_queries_clean_documents_results.csv"
-    #"monolingual_de": "german_german_clean_queries_clean_documents_results.csv"
+    "monolingual_eng_Cohere": "english_english_clean_queries_clean_documents_results.csv"
 }
 output_folder = os.path.join(input_folder, "plots_comparison_by_noise")
 os.makedirs(output_folder, exist_ok=True)
